@@ -1,4 +1,1817 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Final Year Research Log]]></title><description><![CDATA[A scrapbook of research for William Park's final project]]></description><link>https://www.williamipark.co.uk</link><generator>RSS for Node</generator><lastBuildDate>Sun, 07 Oct 2018 18:17:22 GMT</lastBuildDate><item><title><![CDATA[User Personas]]></title><description><![CDATA[I’ve developed a couple of user personas. These are people who I expect would enjoy an app that lets them build good habits and get rid of…]]></description><link>https://www.williamipark.co.uk/user-personas/</link><guid isPermaLink="false">https://www.williamipark.co.uk/user-personas/</guid><pubDate>Sun, 07 Oct 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;I’ve developed a couple of user personas. These are people who I expect would enjoy an app that lets them build good habits and get rid of bad ones.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Final Year Research Log]]></title><description><![CDATA[A scrapbook of research for William Park's final project]]></description><link>https://www.williamipark.co.uk</link><generator>RSS for Node</generator><lastBuildDate>Mon, 07 Jan 2019 16:24:40 GMT</lastBuildDate><item><title><![CDATA[Habeats Landing Page Launched]]></title><description><![CDATA[I built a landing page for Habeats so it starts to gain some presence online. It needs a couple more updates to include a mailing list and…]]></description><link>https://www.williamipark.co.uk/habeats-landing/</link><guid isPermaLink="false">https://www.williamipark.co.uk/habeats-landing/</guid><pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I built a landing page for Habeats so it starts to gain some presence online. It needs a couple more updates to include a mailing list and analytics tracking. &lt;/p&gt;
+&lt;p&gt;You can see it here:
+&lt;a href=&quot;http://www.habeats.net&quot;&gt;Habeats.net&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Invision Prototype]]></title><description><![CDATA[I’ve developed an InVision prototype to browse through my screen designs. You can see it here:
+ https://invis.io/QBPUOW87F3G]]></description><link>https://www.williamipark.co.uk/Invision Prototype/</link><guid isPermaLink="false">https://www.williamipark.co.uk/Invision Prototype/</guid><pubDate>Sat, 15 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve developed an InVision prototype to browse through my screen designs.&lt;/p&gt;
+&lt;p&gt;You can see it here:
+&lt;a href=&quot;https://invis.io/QBPUOW87F3G&quot;&gt;https://invis.io/QBPUOW87F3G&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screen Designs]]></title><description><![CDATA[I’ve designed refined screens for Habeats. Some of what is below will be used and some won’t, as I’ve included my iterative process and…]]></description><link>https://www.williamipark.co.uk/screen-designs/</link><guid isPermaLink="false">https://www.williamipark.co.uk/screen-designs/</guid><pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve designed refined screens for Habeats. Some of what is below will be used and some won’t, as I’ve included my iterative process and style experiments. &lt;/p&gt;
+&lt;h2&gt;Older designs / experiments&lt;/h2&gt;
+&lt;p&gt;These were designs I did where I thought straying from the wireframes in some areas might lead to something interesting. It was helpful to do this just to get a feel for working with the colours and type.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old-bb81f8cc3e436805a194431009f86185-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAC6ElEQVRIx+1US08TURSetqaiC1caFm5cQaxKmT4oaCwiKkqMuCAGY5REFxg1+EChnWmBPkACoiGiAuqiRAiSGCEaY1QUQiQxxA38ByK6NgJD7+eZB+200NIf0JOc3Dsz537nfN85dzguA2NXX6b8Nj8/n/gChUIOeKGa1jpar8MqHCe/AKu3BsUtlcwdCitxdh+H0nACELlB21vJm5QPSyV+84rL7yK/xGxi7Uqxv2bpYPNFySFWSe7gSRxrv6xUeb6Xw5E44NzcnB5wD3m18mEnFriur2/3dU6OHa37M7k7MPve0vltrKxjetwZmhnPk2MWr/Wlo2zQJ+HAneU+tQ2YJwJ92797nuT8aHhsnhaebv0c6t821dpvRnm7SQ7+dfsFx0pDCZQVAA2U3Kg8RIaG0zfEJhpJ2y3kJsh7m6BqbxO5xcCwnj4XA1R9iIu8GuLePVQ7+tfdYhztj6xLADWBthfSj4ecde1Q7F2RvwJ2McAcPpH2Dl2sQX9mA2pCAhiNUS4BfUGBD7C1AoXNQIEAZhd7kgtIXSEvrq1mApuFlYCuDEio6JBQ1S3hTHcUhUHQTPaqcYIhJagMJguvVXsHrjZg771l1D5jEEcZhmeA+kgUeQ2rKKJENtGtxPJxedZRjostTsAZACyNEqp7GLwjDI8+MNwaBPLvSnCFZMCBZL2TGhLrnJmAf8LRQpp5V1EWZkQZcJGG7iCjK7kKR0AGnNwEUIx3jhc+KhUWeCSUtzGExxhuDjI4/dQc7zKcITBe0HQUTenGxqT+CMQbsJP4h4NLEF9HUU9gvtEoPCPLKKLKeWGFYvK15Kkpx+bwUEC+GVMouQ+c6gJOEOXKB8DpHrnDMuA57Ywxk6FWaTt8O+jgc+xv+o0Dnn+0LjBL4xuizCtNtHqNm85iMqhWbS7dEAvR36X7hxozGm6mzuKaBIbkDsozxzSaShN5gcvIdJUSiAwsGOWqWXxOY7cqa1nLWtaytrH9B1j+2MGosmWwAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old-bb81f8cc3e436805a194431009f86185-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old-bb81f8cc3e436805a194431009f86185-1a291.png 148w,
+/research-log/static/old-bb81f8cc3e436805a194431009f86185-2bc4a.png 295w,
+/research-log/static/old-bb81f8cc3e436805a194431009f86185-fb8a0.png 590w,
+/research-log/static/old-bb81f8cc3e436805a194431009f86185-526de.png 885w,
+/research-log/static/old-bb81f8cc3e436805a194431009f86185-fa2eb.png 1180w,
+/research-log/static/old-bb81f8cc3e436805a194431009f86185-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEg0lEQVRIx+1U3U9TZxg/LQiIEGWROWCASvksQqHQTzinhX4AK8Fg/NgYMAUU7WBTBAoFSuRzhC1mI5Op4BJ1ycy2Cy/3F+yCxLHIxa62DGnJki1kZjocPb8955y2oI6BV7vxTX55n/O87/N7n8/DMNtYvPPGpmcAnlEUuKMIRwhnCE6ClfAWVL0noB+s4tmhEfFeUR8DbmjdrrCXgWNSLsqm4XdgG7uJBGcs87DIFfFI3aMhNPgLexv/VLtO/FHkql8tcNWsGj0VsIw2iV6+OSUYbnCECFuuhYly5cSXqJsFEp2ZDDMRzxyqe0OpfLuqjGktSUpstOUo66rMmfVVxcl11gzB4FHJgPxJgUsmkASikpDcJn3vf28vUtqV0kfsLeZSVUPEeGVj9Ke2pqgZa3PEJ/ZTkaSLulrREklh7gh5ZR5moOqRSSG7Jd3rbeteM4kMM2ttWVckTcnB4PmiZF08gPye7A3hhkhJlkPtDoOmXx4yWMnrkG8k+E3dGfqmYlzmNf1+FPaBCL7iVb3Rop485euvrDtTNiLDvnMkZHXKAq6nIaOjGdEn40OX1O53UTQMnJ3lMXZ3DaYPgTzXtHhWekmyy+ioRdp5+1MtBGVXOswjy6ieAixj95DTtUci7PsWef3A8Y+fwHnDD60H1E4+Ci8+cP4B7B8B9kmQ7tyGHHVeR8MMMPj1Cuqvg/LVEMjRNygeAlpnHhP+gm5IIPxRPMu6mA7twBrO31xF+y1A57mP9SZ1j6P+c6D9C6BiAuShTtTndpvpIlB3DWikB7mhvylFDvEsuS0V9vEVOG8DLbfBGwfvhDz8tWxgJzV1lz/f9dmapq9S0H2nOh0u7Gt53QZ/ZscVf/qFUYLYa3x2Z1ggZB1FM02V7oPeI+UehrvMi6wHyjZp3PKlfnxqjPUeGRNrKZAdZi3JZ7jqlGOcPeUYa4s3c6bdHMelcCYuvpa1vlbDWg4eZW1JraUOsWVIF+wCObWVgDCSpQcmNUflqeWa/F1srl7LldSWmcxGIsoxmUw2QrmJM5URqgkVwgOCDclSMYXGlpo7NN+SkOvJQ+lINyzTu6URwqYh0yNb58VvHb2KpjtYyn+/ZlepUltuYO1Go5EjlBJihDssy8ooDeL94L75TzKrM5VXXDgZ9OxsccVzCSfi7VeONw/34Mjlh79rXSWMcXfccaM1jgheJSQQkg0GQ+RG0i3JUdx/Cuzw3IOUZuUrZpXCrmeTyCiLkEYoJEKxGLSL2HItPl5ReH/65fTPQNR2ItrSQ++Sl2YL+OHe94fDd4QrLRaLnoxU5I2O9iJBJpQIaQgQyv4zfN+S96B3aamBOMUpsNls4XQxIoBgqBHb9tTr9bYsLy/fn5+fV9NngsPh2EsEMULuyGgfIZFkoVBxtAtFEoq1c1NSInT7fD7/wsKCNjY2Nt1qtWYK1SWkEw4RdEQiyPsJGkI2Yc+mhDzPM4uLizHMC65/z5/PF5Ln5uZkCoVCnIhgiwQKIBYhANnWRSFSgoxCD6aACfbdsw297eZ+uV6u/3H9A/PGHWIecw2EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-1a291.png 148w,
+/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-2bc4a.png 295w,
+/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-fb8a0.png 590w,
+/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-526de.png 885w,
+/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-fa2eb.png 1180w,
+/research-log/static/old2-b4af6a5d4347ac37ae319b711d7879b7-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.9270633397313%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFBElEQVRIx+2WW2yURRSAJwuJ6AvRGGOpURMFi6SA0u1usT5INMY3Y2KiPvlAMCa++yCltBATI9HES0zkQY22lG2hREDjBQkXKZd2S+ltd1voZW/dS/f67/4z///POZ6ZLgvU1iDy6Ml+e85c/plzZv6Z/zCTc9uUtm0iLIGjNTdNW/dTKPumsm5DrPZjPF8E59chdA72oew6h/LPIDpHB9D5aRCdM+PofH0CuWMhNzlyvghV59hoHfej9fOg7sd4wZD5c6Oy1HNOFjpOyWzPWWkc6pOFY5dk/he/NMnmlpDkleQKzhcg2xRCqufhrS8kvPap5KmcZMKycCISxslkDEOJKPonghiKR3AqlcDha1cxxQ2UjoMW9fsbggAHnbMBHY1F/RjNZtjCMnipbFimtouibBoWFxplqz7LQs9wxAWozBwp12VjiQ1OurDeTufrMtPRepkprpcZo85OF+qAdJVsqU5adp2U8gZAZCvtCGuZllfXrl713iuPsx0bHmBv16xm25sevuedlx5lO7Y8yO5EHE/LG8Kz83PR1LLPeb7tI3Nb+77SC20fW0279oJ7Zxu4W/ZAA2lva2u2b3R3qphrTydTe9LpdDvRWtHbC4XCSj0guvfW4qa2jbilrR4b2zdhw956bNizEb2tbvTsagLvrmZsbNkqX/ywMesPeVOF3HPpVKqZBlF4iUZiHa2ha8HF+9kqto3dx55lK1gzW8leX3kvW8dcdxSuXeY1v431b/7h2OGXew/4mo/3/uju+r5j2xFfTxMWzDUilaulzag1E5lans7Vlg2yOa/lixBCrCFqGCAmMJqN4VxhFhGjFcJK0y4mASBp23aSytq+rpeDoZLWw4htR7BER2dmehqnpqYwEolgPB7HZDKJiURCEw6HcXZ2Fh16gZcT5aED4XmpQZR0Kui3wHWhmau2qlfl5VADSsiXkQCyEfT/raLqbhcVsoQPfBT2IcjzMkYroc7MzOA0hV8ul6uD3o4seBiKIwRiIKnCtmykTdDrRLum7X/lIUUu1UC0zFBxY0ngprZ/EhWyk8/mZDFfkKVSSUajURmLxeTc3JykXdVa1dFua51KpdT8y8LwLguzbNtLejPxDNpyK+kmwkM0VvDchC7Ty+Oh6BrpLfLQWmvowvXSensXjt/Jkc/EH8O7r+4/+lh4//Ea9l/FPjv+rjgz9mbrN1890unrfrqru+fJzoO+TR0HfZsPdPc8ofF1P6XaKrqe6tZW7Lru3iMPqXHS8/MrmBy4xu6GfNfReYuHLnF61PX+l5+wjs4u3bg0HUvWf1sZ7JZB/5c7F7rOXdwou/h83kXphUuXlV6E+gApnc3mXHREq2WlDcNw0a3kuvGRuqseCtFA6Zj7OpSSuGk2Nx2xKuSJRtl0vKp1i/tZlnAzCs8R42EQ50OSzybBtAVYQkAkGoOh4RGtBedAdyMkkkkIBEMQmpjUZUUmk4WL/X4YD4SAJgDGc0Ww+oJoUY5oDU2hqbIpumQDwQkc8F8mHcJSqUypp430EF4ZGUX/5Sv68lWXcDgSxa7uXvz95Cmcz2RQbYoUw9MgTo8BD6egbAmgAWEsEITzF/th8uo1oMUGuk0gGJqEC5cGtJfKG9u2IBqLw4mTp6F/YBCKhgHMtC3Jo2kUg/RgtoCm4JT3CT3z0JURjNH3RXmjMtZYLI6j4wGcmp5B2lmdI84lkjqKYGiCIinhX/V/S7Vv2D+2AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-1a291.png 148w,
+/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-2bc4a.png 295w,
+/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-fb8a0.png 590w,
+/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-526de.png 885w,
+/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-fa2eb.png 1180w,
+/research-log/static/old3-7280b75a7c8da10774d1075254de4a01-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEDklEQVRIx7VW244bRRD1L/IBfAYvvCMhJEBCAR54R4IIxBKhKEtIUKQlWXbJxl47u3bs8fh+H4+vMz0zXYeqnhmv13h2nQdKOurumu7qOlVdZecICBnE0FngrzfzXfC37XkOfqDx7C3w09/Aw1PgtAY8zgNPCsCrKvDdcxiRK3cl1R0X4v0sOVKhXp9XoY7OaP3jCS1+OSX/1zPynlzQ6vklhUfnZI7uE9EHIdGH3xB98CWRu6KcuFrv92A7Q7ImQxTqVdRGfbSmE1w1bUwjP3HmDg9PmclfldhDHUXCHZEKiHgKraHDCDKnZB5FEav1fsi3NIg8zwVBoKMw5IUmGWNEGwRK3UYQ/Be+j8DzzTzHVPTS9+D6K1qFCnN/jWXgYaE8Hn3sIXqnmBjO7S46L/M0uihjWrTQv7hG66yIYb4C3Z4AvSmoK3AQeQoRU5Uw7ELinDNv62kJ+OIx4atj4MHvwLd/xPj6Kejz30CfPYrHB8dYN/pYCIvFAsvlcgPP82KDSTyRPG7s4n1lKykRxYkwc5MQtZuQjMTIPpXoc+v1Wg96fbSbLer3+xC0220MBgNDg7/DM/DM+j7kfN/XnGH0nBGNR2O4rmuMOY6zuX3bk3Tkc3sRJ+W1DZR7pspTSiFTlw3p4ZSWQB60JGAfTFLo4x+ATx+ReGrVLFiWhWaziU6nY7zt9XoGrVYLjUbDXJBVjsZDWiuQpw5OapZ3m3dIlR6oPqRQR4aq3nq4dx3OpIyPvgc+OaJZsEan1Ua304Vt24a6ZDmz2+x7hyYpgxlovIhP0G1qdyVgP2VNOmQrofTvhOY2bdmU6lL9vZRdZ4rlfEFSk2l2u92umcso2ZVsy3o0Gt1DmR0LI749Cim9ZbuBypvcTk5mo01gKkVxWTFIcZNUO4842Jpn4ValeErpoGDDL7fJHYwxHzmYc2uSEnRnM8znC8bcYGbW8WiQ6CVUYszUsqfYw4EDf+zSxJ1iwjU8nboYj8eMCaZsWOA48TdnyuOE9Tw6yXrBDmwM+p6n/UCBPSV1AL0symIspswx9GXheXRIe8rCjYdiMA4oZbWk98H/aJApH3IgpZdp0JOkxHGg3TZv2v8B8ZN96d4cZ0krblsqDElxVSs/ztx2HafZlFo2HXtHl1aQrE3poTYA/VMn6rubZjPid3hVrmDIvzOpuO4MVt2G3WhudKvVGm8KRdSselx65PH/w3MLeFYilNobgzU+mL8socobxUuRaq2Oq+sKLotvNwaHwxEe/nyEP1+c8ANfJv2w3AW9ekc0nN0YtGy8flNAkxtuKnX27CJ/abwUb0TGEwcvTl7y5cXkz5IYHC9AxRaZ35bk8IBvLl1dM/XJxqCU4rtqDW3u6BI7ESlLudyqN4zuX7H13YUjsDQUAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-1a291.png 148w,
+/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-2bc4a.png 295w,
+/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-fb8a0.png 590w,
+/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-526de.png 885w,
+/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-fa2eb.png 1180w,
+/research-log/static/old4-6c6982ff698bd3bc76f65ccbf379ddcb-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEKUlEQVRIx7VW6W5bRRT2AyHxHPAHwW9+8BbwAEhIUIhUsQiJF0AtKCltqqQVrSoiQtJmsxPH8XK929f7djdfz/k4Z+7i4I2IirE+zblz534++0yCAJ8x2wQQzeVF8LvbcgLulPDiCvjlGHhwBBzlgafnwH4SOMwBP72EHoTlQeGi7BXwSJDnK/s4C2/7iOyfD2i8fUjuo2Ny9k7JenFB/s4x6U/DEVITInnKBn78PeHDLcLQpgSvqqLZRKnfIaPbQrJYgNExURv0cF0poT9zA2VUwLEEeXeYBR1ktJzgReX7PmzHJpmnUw+e6/I81UD40dpBdEskaA27dRPlVIbMXBEto4I6z6VMDk2jDGU5YD+DnBBKLWvpzzS0DxkKz1PAvV3C/T3gu2fAD88DsExfPQZ9vg364hHom13YRgNj18Z4NMZ4PMZkMtGwbXuuITUHoLxJVGyDjBYo2wTdNPSMzkhrCMcLNJ2p1b4MERB+8iPo3c+IPvga9NEW6L0vQe8z3vkUdO8JwjAjCvFtv932nybUJr8xgO3XhL0L4Bmb/+QU+O0E2HkD5M0l528aCc/zlM1Jzq4nSRCb4YSYanCqeV4c9X9DwrFtVa/WkLlKUylvoFIsIXudQalgwJlYsAXs8EU4jrMSiZni32wGf+Zzwap/+GMR0dD7OWdXIfDh1lPg/j6NPQe1Wg2VSgXNZhOtVgudTkfP7XZbrzUajSDh1/lQR3n3DHh8Sh43jn6vpzEYDDAajeI8k5yTtX6/rzVZZ0lCkVSpqIm7hTEkUlwxqxBo+O2+VAVN2OQ2m9ftdmGapobruiu1idZWm/zwL+DhEbls8oBNEgip+E0itylQyyaLnkEF3NnkdeZqk+X9hAvdmkxItIkiGpktQZBI9zhQ8k6eN2msCS1LJy9JOsgHw+FQox+aLmQSaYmyRHtj6TGJ8jmhfTXjRjKT3h6rH0Vzcd5cep6r3Eobbq1DzmAMh81fV1Z3QcKZemqarsLN1qhlsv+anDahv0wzkAUdiTr7UlcO+7ij5a6GuEfSKyB0WUN5cF2yHBuWHTQD8Wvo2/mzzKFsR3LYKGJC13FiQpn/KyLSWEMmprfx3VzDiPAtNYzwPxI6dyOMzFtLyBtU6IclH25q9Yv7or36kPK4Qjw+Ahh8DeGrCB9K0ublpJNZngXBVWUKtbAWVZA867uNHJV0YpA+8MOalCROZ264UXTiOh0MhigYRRRL5XjNsmycXaSQLxTDButMFV4XgN8vCZfVmDDPH54nU8jx6ae15ZHjUzF9fYNk6iomNFttPPh1By9fHXDjmAQNFpm6XMmIWsM5IROdnF2gXKnGHxvFMk7Pk1rLsI1ySfbw6o8/cc5a6uagCdsjUKpCZHsxofzzZfqaTe/GhCLfZPOo1urxQdXvD/Sfy5/4fAP7G7De0PAyT4IhAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-1a291.png 148w,
+/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-2bc4a.png 295w,
+/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-fb8a0.png 590w,
+/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-526de.png 885w,
+/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-fa2eb.png 1180w,
+/research-log/static/old5-b732e03237cf852283ad7aff4f77e314-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.9270633397313%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAGKUlEQVRIx62Wa2wUVRTHh2lBiQIisQEfQDQLGlAqtIJifGDw+UHjIxrE+I0YMD4iggItEkCrH0BNFQTDQ9pa6bYYlBYKlYClgPRBedhuW+hzd7tb+tju7M7cuXPv3zOzdIFSgSgn+eXc57n33Ln3zFF0wzB1wbkOOQCWow1d5zTOwThPvG73AQ52WTFCYSmKT8DafhgitwzikAfWbxWwCqtg/VkDa0MJDMuEoRsgQ5dit1kcZmElzKIqZ5xi9GpWqOy0jLjLRG/2AdHtLhVa/mHR+/sxEdpTKXT3YWGYTOi6Lgwbw4hBZZ0xQfOFnJMp5MtrhdHRLRRmMtS3taI+6ENdwIvKeg/q/G1o7GjHybMNCBoahGXBNM3LYYS0YJXWOt6YNE6h1cImYxEjEtVM3dC4wTQW1TWTtA2LRKOGFmXUz2hXURqvXQLNMYAYVFeklC7OuQukLYNNsMtCCBcXlssKRSYKYKwEbj3PWBnWJ5J22fMcLDEBneEJ6NZcEtKlXE0w6M3xGPd+Bu567yuoc8dfdYIoP6N2AJe0yYXZgx39UFoKoeGVdcBrP0CmLNPk9PRpTt97WwdfZmtnhXphJ5MWf45Ji6pw78JX423Tlv2K5M+AD7fp2FCiY8YqIHlJcbw/eUkqzSuledtw38fDlYs63scbG4EFWcBLawxMXnxPzODSSkxZCry8llM7RzKVpy5twewvEuXo+cMwPf0s5v0EvLUZeCjt+4sN7sc724AV+QZeyQSt+rzTPuXTTXj0K+CjLI6Pc4BZa4D7P1nvuOz66Ek89w2QnhfFB7lkMP3QhTN7ePlc+XRGVD77pZSzVu/mo+YNjR3DojEyNa0UM8ntmSs0zFi+CaPn3+j03b5gGJ5avQ/P0YLPZITwyGevx3a3i8X08HnjMHpBct/nwZBPBjlaeU2lc03BPR/eHfdo4kI11ndnIu54N1UOeft2pz4nU1F8HYGEvIzMmxXAMbB+1/ahuzZm3eguKRqCvX8nciD+5eTOisHyaEMi3UNVlnocHe/747RdT+irj5z92JOTpo513TVs6E1JU6dNcyUlJY1R/osIyEIpZKGQogiATeF5/a/QCymi1zQg5CnJxlJgU5lT7O3tRU9PDyKRCCjCgDEW13abpmm4kijktyl3V1soPM6ZtHh3d7cDGeXhcJiTAU6GHB0KhZx2W2gup51ehiIkOUy9FAQkrlFoIsi9AbFdFvLr3cC3e2SY6QgGAjh37hza29sd7MjcZ+RiruSykAXHgB3HJIOFEJ2ffYZdXV2OYfv8bLFX7290IPq7fE2Q8X/FdpnJzGKOdSU8Yhrc7/NxcpUHg0HuozLtkgcCAd7R0cH9fj/v7OyMfxBb9yd2bYo9MfqJ7aZF/wmbvnO8mij0A1pJ7i6iKYuonk6kEcuJ1cSqgaBb40ALXVxeSRtY6bwW86cDD7Csgw/ixcyhWPL7cAoQg5T/I/xQ7Q6ztCa3KH/nY2U7975dvmv/4wUFvz6Yk+ee/nOee2auO3/q9vyC+37JL5jcB7XP+MWdP8Xuy9me90RxSckInA8wCttx9Aa4jya+sGbZDat+XHfrio3f3bw5K3vk1uycMVuyspO2ZuWMovII4hZi5BabrJzb7DrpUUQSEYs01u7jyvUSWkBRdM5Uw9+ZwFqCqj8YUJtbWhP87e2qz+9Xm5qbE1paWxO8Pp9qt9G1URubm9U2r1dtbWtzxni9PrWxqSmB3rlKAURVrrtQwpNCjyu1D0o5UqPRaCodcBx6fg52ma5IvK3/ONNkqQrlKxaraZXsSJ0wWoKCjkBQriPavD5RffKUoxllW+SOCASDotZTJ+rqG5y6TVdXt/irvFLU1NYJWkAoRk9YmIc9MIurYVY3QrezKcqsauvqUVF1HGSAAmuUUk8OmoQTp06j8vgJJ+DaL6i1zYvcvB3Yt/8AOimgKJSFWuxkk2QH/5ZGa4eMmhRmTS5raj3yyF/lsuHMWUkhTFL6Jj31DfLosQpZ46mTtBvJuSl9Pr8s2X9QlldUybCmSfrKpjC858CqaGJ3L3RmUN7HnJWrT5wCfUlnN3Zc9Pr8OF1Ti8amZudXYOeIgUDQ8cJDHtm/iH8AAFiroyIQSQwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-1a291.png 148w,
+/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-2bc4a.png 295w,
+/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-fb8a0.png 590w,
+/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-526de.png 885w,
+/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-fa2eb.png 1180w,
+/research-log/static/old6-3ea8d8d1800b7dfc462edcf1a6abdfdf-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/old7-3929d89e7c8df8c824376e135a533212-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.9270633397313%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFVklEQVRIx82Wa2wVRRTHl0shEJFETRpAeURyQVMNDW0BxZiAQUW/EB5BEeM3YqwBCU95FBDQygdQUi1SUsKjBKEVAtIXFEIsRegLIVihpUhb2t57++D27t59zM75e3ZveymlPKJ88CS/nJkzO2fmzO6cPYpuGJYuhdBBvWC72tB1wc+5GJ1E+84Y4OK0FSMYIll4Gfah85AHSyDPXYN9vBx2biXs36pg7yyCYVswdAPs6F4cmy1g5VbAyqt0n1OMDtUOllwlLbtEdmSdle3ZxVLNOS87fi2VwYIKqWefl4ZlSl3XpeFgGBG4rZum5PmS5qVJmrlNGoF2qZiWieqGelT7G3HddxsV1ddwvakBNwPNuFJbA7+hQto2LMu6H5MhG3bxX240Fj+n8GohyzQ1Qwurlm6owjBVM6yrFmsHUwuHDTVs8rjJuwrz8yqjdWqVw1YNIAL3FSLyCiG8YG0b5hinLaX0Cml77aA2VgIjCHi2kxEU0sey9jrzXGw5Bq2hMWhXvQTyKo8S9PloFEYuSsXwhVvgmT/qkRNkWa0nANxjo6VZ/Vw9YW0io2JWOjDnJ1DiGpUmpiS4Ywv39LvP17Fyz92dxK34GnHLK/HS0tlRW8Kao4hfDyzep2NnkY5Jm0Dxqwqj4/GrEnleMcUt34eXlw1Wug0swgcZQPJ+YMZWA6+sGB1xuLoC41YDM7cJtgvEc3v86jpM+yYGQz4bhIkptViwF/h4NzBh7Y/dHZ7Bp/uADTkGZqWBV33PtY/7MhNvbAGW7BdYdgCYuhV4deUOd8y7ZAqmfw+kHA7ji4PsMOXc3TN7bd18ejs1TO9+SzR1c754bsHAyDEsH0pJa4sxmcOevEHFpHWZNCR5gDs2LPlpvLX5FKbzgu+kBvH6+rmR3R3XI3rwgpEYkhzf9XrQf2UfVytzPHyuiRi9+MXoBsYu9UTGXojB858nof8nw9z+vB8UpTHg63s4NW2QArgOdpw4NPBExv4B2UV5/XHyzxgBRN8cHSvvRxdqYvg79FDxNVdHx05fdfp9u/rPTHtzStz4Ed7hgwc+FTs+IcEbGxs7VPk3IkG5JClXkswD4JDbqR8I35A8vk29wpGyZBQDmSVus6OjA3fu3IGmaeAMA9M0o9qxqaqKh4nCcZuU/4eN3EvCJFu0t7e7sFMRCoUEOxDsyNXBYNC1O8JzBe/0PhRJHDCPchIgPKbwRHB4veKELOm7fGB7AYVMHX6fDy0tLWhubnZxMnOXk+48LGSJX0qBI6VkwkaQz885w7a2Ntexc36OOKv3dNobPUN+LNj5A3FCNimtUCC9SGiWIZoaGwWHKvx+v2jkdiAQED6fz9VNTU2itbU1+kIc3ZPIZ1NQBeRXRc5K3j0fJ0yb/xMOXef4KFF40lcc7kaeshGPCS+wkef1ivLEhV9KDP94Y6TJOG0p/xPK/1/4w/U48I14Ijz5HRqqlhgGkjSGL1kSlxxJqqYl8ecRhbONS3dbOBx26WlTuDa0zbIaErtOS6MhIMNcadlCyOobtTL76HF5o/YmV49CCsuSt+rq5Z6sg/LS5SuSiyXJOVK2tLTK3IKT8kJpuWtTuKiUctMR568GkV8JzbnVLLv3HsD7Mz/EgZ9zorfg1JmzmD5jLrZuT4/emstXrmLxijVI27ELJmcmRSfb5oKR7A05ZFbVU9i2iAsg+v1iGW3eso0ullW4l96yTLpeXUPpGbvp1Omz3LeId05/36qjzL1ZdCKvkPilkKJziEZbEMYtHxkhTvu8ipPumzkvcogIBFqiFWtjUzMabt9GE2vO5lwfmvAHAqirbwA7dn8P/wDwIX9+p7GMEwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/old7-3929d89e7c8df8c824376e135a533212-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/old7-3929d89e7c8df8c824376e135a533212-1a291.png 148w,
+/research-log/static/old7-3929d89e7c8df8c824376e135a533212-2bc4a.png 295w,
+/research-log/static/old7-3929d89e7c8df8c824376e135a533212-fb8a0.png 590w,
+/research-log/static/old7-3929d89e7c8df8c824376e135a533212-526de.png 885w,
+/research-log/static/old7-3929d89e7c8df8c824376e135a533212-fa2eb.png 1180w,
+/research-log/static/old7-3929d89e7c8df8c824376e135a533212-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Navigation Icon Experimentation&lt;/h2&gt;
+&lt;p&gt;These designs were mainly focused on getting the navigation icons looking nice, although some other small bits did change too.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAD80lEQVRIx9VW227bRhDVL/YD+jd9CFA0D0GKPPQPUrSIjbZB3DQGkqa2Y7iOLMlXSZR1v1GiJFLkkss5nVmKrCxLsov2pQsczWi4nJ37MkdAyIi3AURMKeFXwc+W+RyCUGP/HPjhE/D9EXBUAV7ngTdnwGEZ+G4fZhHh3kple4VkP68cqUjPT8pQO8c0f/mRZq8OKdg9Jv/NKXn7BYpYbl5dt0QeaqIvXxB98ZTI8SjHm3Wt14Fl96lq93FmlVEZdNEYD3FRr2Gsg4UxWyw8Yk/+uE4sjLXW8kCrkIhZxDHiiEWaQ7LgZUss/DrIszSIzOfCMNQ6ivhPTEIT6AyhUncRhvcRBAj9wPA5dkW7yofje+RFCtNgDjcMMGOZ0DWObl0mhtNaG62DPA1OrzAuVtE9vUTjuIh+/hpx0wY6Y1BbMIL2FXSchGEVEmejEG9LwNPXhGd7wPNfgRe/Jfj2Lct/Ab7+CfjmZ9DzPfi3PYhH7syF67rwPM/A9/3EQtasTV0scraMiH/1HWCRiPUJEitzrFl3Wm1Uy2VqNppoNVuoWRbTpjl1Pp/fg8g3IaeU0m4cwvamNJ1OjflCxR05MeKsL0OqgN/ZiCSG77j1PlxRyG05E2WzmVE8YyqKl6lADtqaZZKgP9klKZVGvY7bWg2tVgu9Xg/9fj+DyJocCrFkU/fkSBQmlf7okhNFm5AoPLgBPlUo5PqSwAZc+WkC0vp6LJIYPtkFvtoxLrfbbXS7XeNand2XWG4cDutiKBZirkCe+o9c5l4ONZeCjmi1JMR1KRVp+lQm/IMuT52JlAtJzMRVcbvT6aDRaBhe6GAwMFmWbG91mVtGa26bKNZ8adw/MZ2Fq7JlLLdfzg8CHUxdMEh5PhRneVsnrIOEJms9P1Q6LNxCndfJ7g0wZjiOA3s0wtC2DT8WjMcYsWzE1F7QFFPunlSpsVCNWeDMyOG2EwUTpqJAILz09mQygcMwVPYseIG0ZaYw4GkThGy2CuifurrqstAkhsywYto2lh7C3y6LhaIwCGhB/xX+BwqDpRg+5oU0XtstTAJL/vxuoB+6P5b3pXvNnaJ4DspwUDEPhyAphXQOCk3LI1oMj3hFJvuk7cydItMGlR7oxCLqOtnYHgz5Y+nqGv3BMGt8h4dI1aqhdlvPZJ43x+ezIipVK+ll+Px9eFIF3pUIpWamUF7MF0ooV6zsUhL+4vIaheJ5plAOfPnjDvbf/84XmLsYsFcd0OENUW+SKaxUa/jz8xnqfFeny2LLTvMFc5hYI8u2R3j/8QB5tjL5WBKFwxmo2CCSyZ2e3B+gdHHJrtuZwiHzN+UKmvxhILGTJYND3K1at0b2Fwa23FywwS62AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-1a291.png 148w,
+/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-2bc4a.png 295w,
+/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-fb8a0.png 590w,
+/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-526de.png 885w,
+/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-fa2eb.png 1180w,
+/research-log/static/icon1-aa03124d99e186bf988ee30b6343c685-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/icon2-998edd780a73b485264c1992e87558b2-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADlUlEQVRIx+VW247cRBD1L+ad30ERoICECLzwBYl4GBKIsiTkARHYbKTVbjYJu9nZud/XY489Hnfb3XWoao9nJnPbROGNlo6qXG5X173tEWAYdh9AtOTXwe9WeQ8qI/z+BvjpBXD/EDisAo9OgMevgL8vgR+fwS0ibKxSdnDK+08d65HO7ezlO+jKEc3u/Ulx5ZDUz0eUPj6m5NkryisvyX26bYlc50SffU906xuiyYw8MbXW76E+HtKVP8Bp7RLVUR+t0MfbZh2BUXNj9lh4yJ48vygstMZYiY7RGRGzsPyY5xCeHG9gjGGx3Q55VwaReS/LMmtYgTWWhBYwC2Rav48s24RSyFLleI9dsVOVIlQJJblGpGaYZilinTJV2OLo3uViGNW66Px1QqPjcwRnV+gf/4PW0RmGJxewbR/oBaCuYAyTahhbhGEdEmenEE/OgK8fEb49AL77DfjhaYG7T1j+K/DVQ+DOL6C7B0gbA4hH03iK6XSKJEkc0jQtLGTN1tXFPGer4NTAvAfsTg5DrPRYs+11uri6rFK71Uan3UG9VmPadqfOZrMNiHwXPK21ja2Gn0QURZEzX6i4IyfmnPVVSBXwNztRxPDpa+CPC8q4LWNRFhexiePYKV6lAjlob5bpywfAFw9ISqXVbKJRb6DT6WAwGGA0GmE4HDqIrM2hEEt2dY83nyJS6R9ccqJoFwqF0ocvqsQ94wKruPLLBJT19aEoXL5dAT6vOJd73S76/b5zrcnuSyx3DodtMXRDM9GgRP9HLnMva8OlYHJaLwlxXUpFmr6UCX+jy5MwlHIhiZm42mW3e70eWq2W44VKtuWd0L0uc8vw5LLIreGLY/PEchauy1ax2n5eqpRV0RQM0kkKzVne1wnbIKFZtF6aaZud1qHfNMkfjBAwQg6BPx7j2vcdHwiCAGOWjZn6c1oi4u4plRYWBhFUGFMYTZyCCbefKBAIL709mfA7hqOyZ84LpC0XChVPGyVma0Uf6+q6y0ILC+UhTWnfWLoJSwtFIT8waE4/Cf9HhXKnzAP6SUlZFPY+C8uS+CgLZdq4Hi3+sDZ6dl0GN0BvmDZuV5zS6rxzIr6s1gdrEIQLWUnfnl+4FlwO2DgFDSdEuVlcLEky403h4o/AHcAtNh4H3GqJmyyylNJotjq4vvaXdwquI9B5lyhZ/hwNhiO8q165jViR1eRG7PZ40OZOJgc0+Aeh3mi64fsvyUznJlIyHbUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/icon2-998edd780a73b485264c1992e87558b2-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/icon2-998edd780a73b485264c1992e87558b2-1a291.png 148w,
+/research-log/static/icon2-998edd780a73b485264c1992e87558b2-2bc4a.png 295w,
+/research-log/static/icon2-998edd780a73b485264c1992e87558b2-fb8a0.png 590w,
+/research-log/static/icon2-998edd780a73b485264c1992e87558b2-526de.png 885w,
+/research-log/static/icon2-998edd780a73b485264c1992e87558b2-fa2eb.png 1180w,
+/research-log/static/icon2-998edd780a73b485264c1992e87558b2-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADzElEQVRIx+VWW2/cRBT2X+QH8E8qxA8AcW9B8ICQeKA0QkgN0EALL1RJqNIkNApNsvebvfauvZvdHY/tOR/njO2Vt9lNUvrISJ/OzLHn8zlzLmOHgJRhrgXRepTPKu85iBODJyfA1l/A/T1g9wL4+Qh4dAw8PQO+fAI7iHBllLqd4/x9Hg7p1MQHNagf9kg/2CX18BktftyneOeQaPecaPu5bKO1Q/RJSvT2XaK3PiCaLMgRUzvBEPXAo1rgoeF7OPf6qPsubhylhXsXuTdiocmMoczApBllSSoSxBApa6szZjMyfpeJLHjuJEliMiHImFBIUibJ15Y00fpmqDhHkvAZcmRmWiGK5zTPNKY8v0xjXCYxZiwJrzccsXRa76H35yH5z04RHp7D3T9B9+kRhgf/wLR9oDsCdSrovoJ2AHIjiVxOiD9OgY93CJ/+KhJW3nsMfPE7cPc3Bq8/Y/0nj4APfwHe/wl4b5vldr7+iPFgH+BYOFmWGarErHRRZMrIXgcSFKWU8QYuOs0WuYMBBN1Ol6ULtVCMxRqwXqnieQWsc+I4NhwQDMYBBUGAMAwxHA4xHo1s1HQRSV0B79kIm9h40QVeDkhyKWWSVFKHza8SCHkJyT8JwDrYoNC7W8A7WzRRc9TrddRqNbRaLfR6PbiuiwEfg0B0zWbTfiA/9KtJZS2kGefbTNH66qKlvA1ywqYPavmUsitSKfKgLK3bEq24jDv3gTvf01QvOMId66q41mg0MJ/PN7q3tlJsUCTL3SjfUvnaf7HS4X5r0jyJSTZnAmkMFTJT6Er9jS5PwgiXkymJe53C5X6/j3a7baXoPM+zUnL0epe520jeMajqZmlNUuRl1dJNvdFaKJWiuZfFKqa46Gs6zhN6mcyVKimrR2+oHkcl2iQvWkjOejSbzRD2PEz5CCbTqS3DMIow5flkMkEk4HUUFXPGpNAtuMZzQs0WumNoP6K5WiDgGhYSIZP5mKVstORhVMjQ6kudzJeEMXebONFQWpMo1rmj9Sb9qsu22yg+QyblM1RkW9IbILdQCPMDpeva0m3xfySUOyXOD/WNg7K8U2LO/jhLVyyUVMiy9IoFUimv6uS9MnXy9jXXIH+aX6NF35ONo/F4pZNIvc64gVQ7jozROLSEyz8HPG8Cnz/O26Ex9oEfjHDvq69Xmqt85ODwcHmnmOLdb779Dr3+oNJg5XfiuE200MuLvtPt4ejvE/v1crPUtMftS2q3JBv6Pk5fnuGi1sgvekuYsgsqIfmtKwnLs5LWVVopG2yrY1laLevy/ET3L9M74Ddb4l0nAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-1a291.png 148w,
+/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-2bc4a.png 295w,
+/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-fb8a0.png 590w,
+/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-526de.png 885w,
+/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-fa2eb.png 1180w,
+/research-log/static/icon3-94cddee59f5ce3bfc5c56f5d2c7d862f-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Induction and Day view&lt;/h2&gt;
+&lt;p&gt;These designs are for the initial time a user opens the app. It’s somewhat of a guide through the progress of using the app while also being used as an opportunity to tell the user not take on too much. The final image is also how the day view will look&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADU0lEQVRIx+1W227TQBDN9/EdfA0/QCV4QEg8UB6QqBAvVEggUEtFbzRNmnuTNI7dOLe69W09h5nxpUlpoSp94KErHe16PXv27Hi8MyUCDIOuAxafpWVd0Yr5S5sSRcbgcxV4swmsbgBfa8CHPQVt1IGnH6Et32KxUTaxXgbe7+hQCYP9Dvy3m+SvfqNgbYv8d1tkPpUJ35tEa9uXSugahYLHz4gePSEazanEpKbr2GicWlSzT1C3BwoPJhWBP7Rc4Y828OUoVZgYY8gkSOKYkiiGIjYw3MdRBBMy2CvXIknSXlQJeFyKosioeN4uYQMZywsZpyJIx3Ecg22vRxAyAh3rkV13DGto02w+x3gygXd+jul0huNuD6ORi9lsrpvcpilho9XG7v4B1RpNCNqdYyXjOVSqNTRbHYRhWKiVlmTHzYKpgBJOplN0e31ilRjaDmzHwcAaYn52hv7JACcDC73+ifaHvIFsKs+d467a5a4pCGURG5EoFWNRV65UUTnixfUmqkd1tNodBW/Mcw09hWwQsP9ywuLIQsgkJERNJnVOR2jyYlFQb7bQ4sVydFGj7mBSIa7W6urfJUIemB4T8ksqV47UUJTYzikaTCabiOpW+xhygv2DQ5ydebr4Rh+KgxkkoRFy3MVZ2CRsEGXhktn89WtrHEoAMxnFJlayxZiT8dLzTbGYoeT7vvGjENxTMPMQeOfs6OBOYA4mDAMTWi58y6WxM4JgwsEtoSQYuS4H+RTT2ayYn2YYj8fFs+d5SlpidSau9OE3BjQcjzQGreFQMbRtDo2B9rbEJ0PHjoztYjywLMz5L0sJg8Co3CAgkSzI5S/i4uLit7mr75QwYB+qD/yA7uq7ZR/mCvmj3KTgtkgVLhD+q8IHwgfC/46QcT+Ech/yf3wvv57+y6IwjCMEJl5SKHlYrvurCuRWvjondmKvCqU+xDkncWeWFSRp9pKFUlEsJiDJKR7f6HnJktu6fNEKYZFGsdMBVtb1LWWVwSmXICvPXyylSNlke3dXleTVg7SXr15rjk7TqBD2XdB+l+giLMq3Xn+AvZ9l3n1SLJZbWW5oufJzMsnhUhA0mu20+lJCLufIj0jKupww95VkvFylyTJinOVjaWnqTf0nc78A1V7czUe3ssoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-1a291.png 148w,
+/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-2bc4a.png 295w,
+/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-fb8a0.png 590w,
+/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-526de.png 885w,
+/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-fa2eb.png 1180w,
+/research-log/static/induc1-1f5674f73f3491bc1c9c6b7211278483-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADy0lEQVRIx51W244bRRD1//8ACB4QDzxwfYAnkFAUIUWEAMomLOvrjO3x2jOem8dee+5V1ClPT8a7TmJj6bjv1VV1TndPj5hLQdWU50F0RLf+HvSokHm/DZi//4P5m5fML0bMP7854pXF/NkzvubX46Kqsxub0x9eUvHd75T99CelP76i7JcbOjz/h9JvX5B4Rpf+emKU7NWSJ75Ly33CziZkK/DYiQPuOzMe++51HtZVVQu4Lkuqi1LKiqkyqJmkXdf1xegVRVE3DTKd0ve/0UPcURxzvNlQkmx5s0m4LMs2BEIGrwpZVljTGd/e9Wk0sbg/HOlOXWPdkNBnSjOnCyUlimJ2vTV53pr9IOSxZfPEmvLifsnO4p7vlyt2pL5cuTwYjbV/NLa0PZs7HIRRa1wNzp0F3w2GWlr2lOGpKWUjMW6rYfQNxxPGvJXrsS2RoX8qRuH1UYdiEIN3/SFh5+lsrh5gMjxDGyl5e/uvtu3pXI0NhmP1UnLfhqsGQYq39mGA+oORLjaeoo6QLHumbXgKQ9gEBqpOLtuQG4FzVVUivaqTeDoho5SxSlG34XV/rYeoPzw8sIB2ux3H8YbDKFIgnGS75SRJhKxAS0gM2MkakIl+rD8hBYNr31eD0KARaS6AV6WclqKtlwp4aupdmWnIjdauU/CZkNVglmX1VkKJ45g0JAl1I6FKW0sZ5zzPn5QGaHf7emma1p7nsWVZtFiIvlYrns/naDPa+/2eZc7F6HVCpfeFYpj/ENrbBmvgshCibIOYhnX17hzMeHcOvGuF/c6Z012rVnvVCcPngPGWFBDgi2xACBCItlB2k38JEKmSAgOz2YxACAhyHIdd120ZvIoUxNkknbp6ws+E+jFCntyH0BtI2coxg2SWy6VKBp7C+6tubHjWJFadrJvDbxJtPLz4kQIpTULJ5Kx7Kq6FkpLmkvj9gdIo4XSz4/RwGQGHw0FxQkpa5HXRX3A2WZEX+LwWloMwZG+9lmPoahnIO4Ncyo2k8Jv6SpSAKw6GjBp64l2dL3zO3JD8KFRj0KUxEDbajJo+QMdlHvqModOQi5zFMLUiPXeznKuf0aiSkonBrCqekAKmHycdl+njvqoq350U/bLa50z+VuVsRI2FuOIf3ygPchF0bx/503kw2L4p/LfN/Omvx5PSPEBI/Ceff3HyAGGTv16/Fk+Oi+um/8uvvtYn9ihsGHRCpjdzokPeXop4wG/e3uru5nMEJwms42SZlw/EyZuuXxs4BEeD+IRLCxzq1qDJlflwMteZnqrm9OCHtskf+v4Du8HjXWT8TgsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-1a291.png 148w,
+/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-2bc4a.png 295w,
+/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-fb8a0.png 590w,
+/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-526de.png 885w,
+/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-fa2eb.png 1180w,
+/research-log/static/induc2-852b76e716e9919ba121eef7beb935d9-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEXElEQVRIx6VW6W4cRRDe5+M5eBcQL0Ak+IGQECQCK4nDkUD+RFEux7Fjk+zpve9717s7V0991NczvTtGjrOBlkpd3V1dXXd1ToBYAQpyI3Ck03Zs93c0OYRRjCcF4OdXgjsvgKdF4Pe3wMMz4GUF+Pov2OGuuSHYrR//Dfx6YtGchCb2z+vYHLwQ784zCR4ci3d4JJuHJ+I/zQsO3+wkkWsk5NHn34h89pXIeKkSqsrt8QjlQVeqkyGqoz5q4wGK3RYaowFuHE7C41qiGSWMjYnFxJDIiAJMGCHWWYyxswlCGMWvhThOZmVkQfFcGKrOeqAgyWxgzZ/sWTyKIijdh8EPEHq+xa3K8/kCs9lcFoslVqs1ptMZ10j3EQQB9h2JDTtdvM8XpdXuoNFsI18o4X2hiHyxhEKpbB9AqlJWaqtR4pbUpJIwnM5m6HR70h8MMRqPieOiWkNTHxiOxvpIC8PhCNVaHd1eH/VG056Tjnfe5Qvo9wc7CUmkBEKiikKpcoHKRVX36mi22gkDZdZQvFZvWOmbrQ6oEfdpO0qfxKFIzEt6WajqeDyxosepB1OHbXHOZBBl1rsokoShMTG2ofofh7trVaZ9VG2hc2gTqkKbUGXuEWgv2rJcqcLZ2pljtV5fdQoJCsWy0Ja0EQnJtFiuWLxyUbNMiRdLFbvmOWnr+ohTe8uwp9IooZTVEXzNBnIazAFB45BrO7u9zJljtmWYEovv+/i/g6kXJx40NvWsB/UBBzem3DWQ23ie6ahtSvmCNBhrGodVxqFmSV3x9fISnqbjXuB5yEUqIa2wUTN4OocKnNdaQd062hdUI2tDnLfAQooHJ5yB306Tiv3oHPgzA48cnO2A+39ohX9W0mSPMwwPjgT3j4F7Kdx9ncz3U+D64EhbxUvgtraKH58DPz1P1r+8Ap7kE4ahVVmgagtVz0L4qUCV1ZCmyyCmU1hhNFjLmvyNWs0aerNa7eeQ9SZ1iiZyRAk1bLKJnh3ZMPoYJDb84h7w5aFchh7arRZ6Pa1z/T46nY5Wn/GnBbZlSGPffa02jLGYz7FcLrX0z+y8ThN//0wJAhMmThAaVfPlSmdj3WO+fgy2mUKneL5Hg0owv0SwWCHQnGZek9DNNwFp6BDrFC8MTNCfIqj3ZTTUOtcfWrtR5fFkgsl0qn1lpI1qanGCxfWMdIRLjQTHNOdFoQmbQ/iFtgz0BzFQpj11CFtBfzDASJm5eahnZE6cBZa0LM60846hqmwXvm/LlwOnQhbPwof2c3pgWCh9E11hSNvQKf/eC9Oimt03qeOI5/g/xFqTb7gQyTQbXhxPpttK7DrhSu3lmr2jnSidq9xJHJ7UgVuP7Sn/NBy00a1vv7vS0fjIm9NTuMoep7Tf/3DbNrGkL5NhW3vxWVNkE8A1Ujaht+fv1Kuz7WUGOh0x1+B3zOgkfln4QbC/L8tQP7HihWK/dSlDSkNJmJ9OShvozFljtlJHafMiLff+AR6tzhxvhp8OAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-1a291.png 148w,
+/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-2bc4a.png 295w,
+/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-fb8a0.png 590w,
+/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-526de.png 885w,
+/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-fa2eb.png 1180w,
+/research-log/static/induc3-435bb18a4aad138e8b0b4c4abebe3a45-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;New Habit screens&lt;/h2&gt;
+&lt;p&gt;These screens are the process of adding a new habit into the application.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADwklEQVRIx+1UvZIjNRCeNyEkIucFSHkAXoCQBKrIqCIhIrwqEkIISSFg7zjuru7goOoWr+21vfb63+O/8c/YHmmk6Y9uaWbt3fLtmiIhQFNfdU+39HWrpVZARJYAuhcyWOIByAhgbIZfL4HHZaDUAy76wPOa/3/GcriAG0wptEopJIkggdYa1lpnE11GQFlmTTOEPm+TvuxTGi7INIaUvr4iW+kRVrubLEV0uz0qXZQZFZrOZrw8o9Z120HCBrLl3mSMRr9H1esWeqMRRtEM1W4bXbb77IokCcYYpGnqpGQnKHSXIUew/MEaS1YcxnqkohtksijzC3nuvZA5Ae/dJlwDrgNpjizRpR6J8nWS+qS5/RTwlmGbrWvUG1c0HIW4al6jPxii3emiVK46wn8yXA3jOMY6jmm9XmOxXGK73WKxWCBiLFcrxJuNy/ihITUOWNr1OhYCWjKZkKyYeB5FTi/khoMoLoVy5dE51B7sc4RcSCuKHP9hgXMb6KDgcpr3wR0KF9JuNxx9l5AcRirR8oubJj56qrSHFF6kTve6SL33u2vTDkfuHna6PVz2OjivVFGpN9CZTVCrX6HWbsOeciJ8X10N0Zoga4SUyc+fLdgoBm0SZH+0kMk1aI1BtaFv2PMOaM7+JAXxXCkN9eeg6sD5AxLCj78FPnokbQa89znw3QvgaRV491NwmsBn3wMffg0S//tfAN+cgV43gXc+ATW5m778AfjgK5AyPsPsDW/p9yvXYNnPJdAgAi22MD+9AT8eyMp9ZC8bblf2SRnU5SBxAvsj+7UB1UfIXtT8PZQ5Uh+Td6zdlwPpgZ7lut23tqxxIztY507Z8KkZrSmVxtf5qckDcOQUne2Iv9ADvh42SV3vkl5voOMtdP6+Fe/cLf3Apu/45aoFiVZWz1ZQYUSLyQzL6RzSMdJ6K267ogWlLZ09h+iFf5m3q5AGiUltWh9AV3s0mk0RjscYhaGX/FiIPhgOMZ3OHKlAiAQ3OsvdbpcTKmUVp8rpkqQsDsGhXuBmq0dws2Ums3mD061mP4LEB34r9hm6/vUZPrTgUD+GQBWEJ2R4Cv4n/E8Syj2Ua8DXJpf/CgE/DFaZFCzJPRIF9B2kpyFQ48jq0RxqOCd+IKAmC6jZEiriB2Ox9ojW3iY+mRPy/FEO988Y+7WBeVzKGDBnJXKSkT658Pgll2I78yjmvA0BL8iMJyBZfOgUIvO0DPOyBvOqDvOs4m1FwDs4SngLh4S/MeHz6r2EgsDkhAzKpV9QLHTb/cvj0Jbrd/E35XPDi1fWwvwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-1a291.png 148w,
+/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-2bc4a.png 295w,
+/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-fb8a0.png 590w,
+/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-526de.png 885w,
+/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-fa2eb.png 1180w,
+/research-log/static/new1-94e34c468bbdd8b7cb223528c2268321-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAD/0lEQVRIx+2WzW4jRRDH53WQ2CUEgRAntGcEB8RD8ABoCdEKDnACIVYgJIQQByTgsC+wwMKSbIA9RLCJ4zj+dsafsR1/jmd6eqb+VHXPeB2vE3zksCP9UjU9Nf+prupuxyEiTQAYuhS5TMjVyOVARxq7J8CvR4TDUyBTB/bywL0MsJMDmgOYiyVFNggC+L7gQymFKIrMmPhyORTHWhVbCA+qpE7qFLYHFORcivfLhFyTaOjNsxTZU9elw8wRk6Vut8evx1Sp1qhcqZrnjky55LooNRtUatRxUi4jUyxgFPo2sfkfowqtNcIwNFayE1LfZMhf0PwZRDoiBpqDY7aGyJK+yLFXIjEOz11LPbgOJHWQry/XScbWxeEsdblaQ6FUpla7g1KlilarDa4LHh1kMJvN5tNd5zI1bHfOwGIktsliwmzmry2SXhJvMmw0W5IRd7BuMhN6vT6mUw/j8eRJJhcZjcfGxiLIhdRIVyUXlpLlLAVOu7lu/UxT2NEeZxLMfNMUweemBNyUMOD7YKkpcq+sv6phZtnUOm0U6i7VTl0UyxUcHh0jWyig1u0gVyiiWCqvXUdTQ1TOQIUWxXwjHZ763Nmxj2ifhXSM8+EQ/fNzW/iDGtCdIIwjtHlVSIkmXL9ev590WQTf/hZ463MKdIivvv4G+4Vj4Ocs4mfeAfId3H2wg+/v3AFGM9ArHwC3f0Jt0MXtL77EYDDA7t4f+O6HH20NJcP4URXRw6JZJJVqFSNvCvSnCO/+AwQaZ/0e6o2GySC6n+WgLgLuZYlLISKSvVuvP55yZOaNC4tObsIVNYqwFLhcQ+my5q5ppYg9KJ10TMaSDquFjpqxxF/ZZd6v2g95qSjey+Mp1MTjpWLPt/Scu+CvGkt82fuOz4eD6o0QtM9pcNbDsNvHkLsqxR6NRmyHOGdfdogZTxDfPh8Y3/M8I+r4OtRhoQl17FKr10W70+F93baWl5D4jWYTfJiy6NggQkLqi/X4ELGCQaADTpXTJUlZThdh0U9Jp7eK+ZRZTMuNnIeJvRTffvhSHmdo9q7N8L9eWPRX4QSp4BoZrsNTwf+loDfTfPyDLTH8U5DiLzGDeX4VHOP4/D9CwAeS/GiyD0sEn5hYW8SXsflzWiKe46gHxzq8d4jwlwNSO1mov/JQf5ehsqdQ+QaU7POca8f+PIGJuX8E9VuGLfM7+7s8tpeDepjnA3ZjS+Pau2AIz20Bz78HemEb9OIt0Eu3rN3gMYm5zkjM9S3rp/fChn3Xoc1tjU0W2NwmxgzOkcCX3wde+xh441Pg1Q+tuI1/gpWCF5BsWZBe/wT05megGx9dKSg4SAQZSqxFMhTLArh2E3j2ps14cRaL8Qn/AvlEemU6KXnUAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-1a291.png 148w,
+/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-2bc4a.png 295w,
+/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-fb8a0.png 590w,
+/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-526de.png 885w,
+/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-fa2eb.png 1180w,
+/research-log/static/new2-f5f2c3f555248db414638eb97b8bb1cc-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Week View&lt;/h2&gt;
+&lt;p&gt;These screens are designs of how I imagine the week screen to look and work.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/week1-53932351e3da677e55b4db11a3d18945-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAE6klEQVRIx51W3W4bVRD2M3HBFRdccIUE4iH6DEgIgUSLKoRUKgEXSFBUKlUoNG1pBFVTVEKLVEhoRChtEhPHduLsru1d7/pnvb9n52PmrI/tFicBjjSaObN7Zmfmm5mzFQJSJnUqEc24kef1E7lCWV7g5yqwvAF8sw483APuPAZW/wTWa8Bn93DsIir52jZwe0uLbFCp+I8G4hu/UnrtF0pWfqP41gbFd7eI1mtEK5tyjBau0iTRmc+JXv2QyBtSRVw98lw0el2quQ4aXge1jo1a28apy3j4qA482C09LIpCaUkVRLkCqUJkzQulULCO3zme5B0+ron3lTiOVRiGiKKIxuOxcBg+T/wekiRZTOOoJJYr/LKyLQsHzSY16nXU9vbQbDTQOmyh2Wyitr+PWq2GVquljZ5GlTzPlaICGRXEhFTlyDgLImdphnQQMk+RZRkUh3ccsR1NFR1+lAJ+SOhHwCguacw6pw9sNiDPJf38TYH7WNKgaIPf/Q46d5Powvegi7eh+QcrwPlboE9WER25CJMI4SiE5HsRSbjaIIejFLvKbpN2W0LLmHOYaZwgY0pFPo7yDJkQn5N9hZFRFoOyX6+TZdtw2m00D5pwXRdpliJOTgBBEO6PEA1GCMchEgFFDNqOA8uyyWF+dGThkBEVXdDv61JYaCxiKjiy6+vobVbxtL5XGmRXlYRY5LkOWTGykgIdAocrKchOoDzhCuCPSjSyr8iEsAMPR75LTqcNe9hDi9suypKyu/Dflu5lde8J8pVHlEvdXfoR+XYLhROALt8HBpGuTQlRlnSNeCJtJh0lXPainxrEW0vAGxcJqzy2Xn4feO8GcOkn4MV3gK0DDPMEvuvpw71eT5eJpKfb7Woue9FLLUodqrzbR2Z5Orr8oAsKEz0c0prDVUq6E8QLWVIaYliWAKbnytzzCptVZhhhTpCv5XOyITF2kqzH13A4RBAEFHgcDueF5OHEi0XtdZKsc+i3u3BaFjlhH327O5ufYbLw0Gy+/tOoziHOfQuc+YKw2QReuwD69C5wfQP0ynlgx8KIQQl6vj7k+75GV8CQbhIue9FPQaFr6yg+vkNU74BkIPCFQzzW6d1lwAoQq4wHw0gfGDEXMASIwWCgcyf70eR5ibKgNwHFACEZjE1ok3FvEDXhiXcmZNGXdSgo873BI4M0EGkOvgm5bFQpzyH5b0gb9MZDHAUu9foBnDBAd+DD8Riocf//tV6+9gQp38V5P0R65T7yxwfImx1kX67NWi9e3HrileynA1a33ptfA69/RPiB/xZeOgucvQlcfgC88LZuvQGj3Ju0nud5utXESKfTmbae6KegKHeA3PF1dOrQBcVyhxDS/UnrFWoKgPHOtCEm9/G09TjpghujK9ksoDTCZStlwidtZVpL0DR7+YhpO4N+hce4SsoJTPoy5zEl+2Qiz1/wz0/teZ15R18B+s7lif3M3wCHkzAY8zoJUTxJn/tzkAkvz7RBSVvMo973A5r2pXCpQXf4TJ+KMY8HiClio+ez03xqg093qri6tEymK7TQ5kte7ua5gxGn4MrVJQy5zQwYsr5inWU7M4NOu4Pd6h6Jp9N52OBBu7GvvTTe2U4b27tVtPhmNMa6PCB2qn/xP1BDv1OWDQtJkpJ5SfvDISNmnPNZeFkmBV7mcr6fTf5E9zcPwtMosZesywAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/week1-53932351e3da677e55b4db11a3d18945-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/week1-53932351e3da677e55b4db11a3d18945-1a291.png 148w,
+/research-log/static/week1-53932351e3da677e55b4db11a3d18945-2bc4a.png 295w,
+/research-log/static/week1-53932351e3da677e55b4db11a3d18945-fb8a0.png 590w,
+/research-log/static/week1-53932351e3da677e55b4db11a3d18945-526de.png 885w,
+/research-log/static/week1-53932351e3da677e55b4db11a3d18945-fa2eb.png 1180w,
+/research-log/static/week1-53932351e3da677e55b4db11a3d18945-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFBklEQVRIx5VWW2tcVRSe/6NvgngBL/ikPgiioI9CxTeLhdqXSrWmoiLUoiASFExpQ2pb0kilVm2UtJqamNo2aTPJTCczyWSuZzJnbue2z/pca5+zz8zkUuuGxV5nX9b+1lr7W/ukCAhYiCW8rxDtFDM+sCZFvlKYSQNn/wLOzALXVoBLt4CfWGZXga9+gW6EnY3iwStLwMUbWtUGnZs5OOevk3v2T3Km5iK5/A/R9QzRDwukPditRSaJ9o0SvfApUb1FKR5QG1YNOatKmVoZa1YVmcomMuXNYSREeyP8+x4wsxwhDMNQaXdUSKEfgFSYSBgohJ6PkKPC6yDzuh8UmePtWvg75TiOYgELxX0kLkuvB4cUHBVEY3zy0BqzrtuLhL9TrusqlmGD/O2KMSh4i3mEb44ifOVz+Odm9ZjLa7TIum2SGGShZKLHRpUPt1AFPf8J8PgR4LmPgIcPwb+4oJG6jGhXg+LykEE5WeBzTIKR88AT74Pe+x50+Azw9IcIX/8yQtnbHeXuBgUhbwr3jQKPHQEdOAl65yTw1FGEr30BJwz2dFu7vCMp3a52y5/4A3j2GPDyceDVE8AzI/DHryUuOzEAsy9B6Ps+giAg6WMdnufpOPpT81D7v4M6NK51x3P7hoxHA0Y1wmq1imKxSLVaDSKlUglbW1uRUbkqiQBJWIxR39O6rE1cLhQKyGazlOe+sL6OTCaL9Y0NtFqtyLVBMWjiaxVMzsGeT2PxXgY9DlWKLStf2BAo7bLnuAi4l03ddkefvKu4jCjgkNSacCwbdqetx1PE1Ku1mqjYDe1ytWOjUq/BZVf2KjL3a7o4dJfyaC+sUpdp1JpZRCtfht/uMulzgK+Y5uwa81iaeCGclVojuvSK+Sx6YhAHTgEvfkb4eRF4lFlxdBL49nfgoXeBG3nYgQOL0Yuher2OTqejDVQqFX0j2u22HhfjKakz6nYBwewKHxVCTS+Bcky5RhvB5ZtA12OQgc6gNImtGJHNPU6M9PJt5lPQZgRmFK4wjpuIZ3Qu8GFc+4y70EhUXBbFSNivh15P85fkWgScZeI6mIjURd5g6h/9h55iRZW36siVi7TGVbrabvYL8g7lAbKsvR2dBkYmCWt14O0x0IV5ED9W9NY3QMFCN/DQsm2NwuZe4ijuCpukl287ntdZphOXQPvHiPhtoDe+Bo1eAfErRlyqsFJCR3lo8mbZ0Gw2dTIkEZZlaYPyLeNJlgMe9FSgHdMZjJMjJ5tEmKCbDBs9mY8TpGOYRIp2xowk6LR3EraPaepZbRvFepWsuoWy3UDVqqNcKaPS2ho4BQky6Qf1wXntssPU6yxkSF647swSnLKFXrOFzm+32a+YesH/od7BceCl44TpO8CTHwDHLgBjV4FHDjP11ph6LlOv/uDUC2/loa4uE7ou1K+LIM4slZsIfuT/lY4bUS9O0F7UMwlk6pEKIprpYKg4J+E26g3SzcTQZNZkWSOUAqvkF4MLrBRNn6nnxSXdj98WIyZ+vj9cbKMxPyqwcmiP4VpWg5IMSu+xW1W7n9EYUY1jNYhSxGo04Hpen3pLd9M4PXGOzL3TCscQH08NXY0eF5Gx0xNocRKMq9LGTk2guFnqGyyVK1hOr/K77Cb3WtfEuSyo1kpiVyqVcWc5zQ9YMTFW5cJ7N72CTDan10QFlhXX9cgs0njYZX4jdQkzKH1fshnFd5B+5gmVsX8BPUq+9vVRvoIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-1a291.png 148w,
+/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-2bc4a.png 295w,
+/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-fb8a0.png 590w,
+/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-526de.png 885w,
+/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-fa2eb.png 1180w,
+/research-log/static/week2-07e4d9f4ac8635815b04f3afd41f8ef3-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.9270633397313%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFd0lEQVRIx41WW29UVRSev+ODvvBgNPH2YELiizGaqG+SGB9MiHeNAS8gQeQBUWIsalJQCpSUQKuAqBCgKZdCC4W2QzvDdIZOZ+bMrZ3bue29Ptfa5zLTUownWTl777P22t+6ffskCPBY/IcJRIh8YkE075XedR4nyON9l+4CQ+PAsavA2DxwZgo4exu4lgb6zuGhD4Xvc9O855YZskGlnVsZ2MevkDM4Ru7IdXKGx8n+c5KcizNEwzeI99G6T7S+qY/ohd1E1SYl2KgurdSRsgq0UC8jbRWQqZQwX8gjUyqESCiQBxCGa+PsyaVkgFDzIx9IKY6AgmYhpWPRrgeteJ3VtO8H714RHUElwvOEbduaBSwUvrvS7sAmBVt5wZyDZnfW6ER6IjxOOI6jWVYb5LnTYQUouLez0G/+BP3yXnhDV82awzpGRG+NxAZZKP4gKJQPJ1sCbdwFbNgCPLMdePRjeKcmDFKHEf0/g3KywJfC2jYEPPkFaMcJ0JZB4Ont0K/vC1B21ke5vkFByLHTm/qAJz4Hvf8b6N1fgae2Qb/6PWzt/7fBB5LSbhu3vMOjwHM7gJf2AK/sBZ79Ct7AaOyyvZ7LkmXP8+D7Psk7HMN1Xdg+z09cg9rcD/XRALyT48aIHXpiR/EOgcQILctCPp+ncrkMkUKhgHq9HhiVUokFiMMSGeXQuJxAn4HYkcFsLod0Ok3yzt2/j1QqjcXFRTQajcC1XonCYirBgzpzE9WpFOZyC3wAG2QU2mMk3CHGZUHlscuyqd1smfkq4XWXkbiOC4dD4s8voVWooFyvme8J4n4pN+rgfjYuW2ULpWLRKPcSysP6eO33BC/o9vQCmhPz1HZs42az04ZXawITGTAbmU2xTOVAxeVgLEY1mXckxiDeOwRs/IZwJQX88Dfw153g/dgnoCOXgcErQP9F0IVZ4PHPgF0jxqDLMUNIClIZBqHM1e0c1OU5ktNUiU9vcU6tFfhnmTRXOqB6C5rncDgJF2dB6ZLZrEIjgkyMBgZlLB/DcOge99wwLhE9IdALFNlIhEqMKaW6fOh2TP+SzQzjc6YMFwovxvwYiPBivC40GnJiFD/DhzzQxVoFmWKeFop5WJzxtVfGetfIqnHPookh9p8HdpwkZCvA5oOg4QnQ6F3QW7+ApheBHzlBW4+BsmUmCSaK4+OgW1nQpv3AQhkdLvDG8ko3y/TtadA7B4mu3wO90Qf6+TxoZAJ4bZ/JLO3+HfR2P2hsLjjkuzOgPyZBQhjJJbS1h+VaPTAoCD3uRe5HA9znMYVJkG6JkqJCv3ylYg+99ZIiMYwjQT0xCYWiC0qCHyUmSpIkqOfCClzmUaW5gqWKRbVqFcWVGqxqBcVSEaVmPTjFXKNBvdHq8+ISiurRuGxPZ9GaTJFQUevSNOxSDZ3lBloX+O+BS0hpFdccTS4A1ab4DpI/C8/n79rQV9zL+GAAeHEP4fwM3yFfAjuHTathw1aAs9nwHdSXuYOW28DzO4FPj4IOjwGPfAjcyKChXVStchehnspCjSYJLQfqnzuguYIhAP/UJNBmOpMb0An79sIMaDYPlBtQp28CTRseexAlkFuPtB+0GfW2lg5bz8QpZBSEv1lR7KKx/D1Ilg1CIVjF/gvBCml6thMQaEi0veQqBCxt57FerCvkzDGMyNm43OFertZqFGXKIHB9wzhRn0omBUW5UonRRMJ7jbG49aZnkhg4OhQYDGkIBe7pr4fjcpCnw+Rx4NBRNJrNuKDlOXDoCJYKxa7BQrGE5Nw838tOt64zFoh/04iDb2LLqGTTbHIOucV8bKzE2U3enUfqXsboBATLA4ZMkRIFfcW9F8QsQim16Jj4et0khXF2OKay9i+tHK70kaHvyQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-1a291.png 148w,
+/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-2bc4a.png 295w,
+/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-fb8a0.png 590w,
+/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-526de.png 885w,
+/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-fa2eb.png 1180w,
+/research-log/static/week3-1cffb63f588b81d05735ccc452b1da90-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Progress View&lt;/h2&gt;
+&lt;p&gt;The progress view lets a user view their entire history with the application.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAADvElEQVRIx9VW224TQQzN9/EdfA3PSCDBA0ICqQLxAEKCCiGhgii33qAkadMuTZvLNhdI02Q3O7M+2J6ZzaYtlD4ykmXveOw547E9WyHAMNGlJMOzYhTz8zUVyqzFSh149IGwtAq82wFebAIvt4DVXeDWK+hQEywO8hOvt4Hn6ypWyFibbEVInqzS7PF7Sp5+crS8QfSxQfRsbY6ELkAodP0O0bUbRL0TRgjYo34P+/2YGr0uon6MRtxGo9vGpSMg/BIBKzWHMM9zq5LNidEKd5QTco5Gnhnwmj+TrGFzJf6uJEliJpMJptMpea40Ho+Vp2kKXqP8HCWeT6aOWK6wkTk4OEAURSS80Wig3W6jVqshjmPMZjN1LE7/hSqWhxixdzLG6C5ZliHIrFZZ5kQOOp2zjhs7lysSPW+kEc4lfhpvUnRBlvjALdZvGWY0cXqOs50kPm2IbHFnuVtI3glKvCyrXjZ+U3Wp2RoC6z9UVoSYGdBJojrmIPmWuigQWJ1X+TQFJZmTf3m9rB8HhOIwHoHWIudwLQLJtzh8v+MMBmPQ530nfzsENftOflt3PP4F2jwoOZzMxIk7z/EImKSatNT+6QwYEcl8cO7RUMfrxb53UnLY50XbRw7h9pEaaRX4uEC+uRpUZj2aAydz3SvnE2GrWYqhxK3Zdw75OBpHQbh/7CpGbtSXmvVVIdbG81ydOL1DODgFqi13h9WWQyRfvKs6pBwmMy5tONek3DRtMnc5klIyr0dmQ828TPZiJ5lHQG6uMDDeQLj1DrOSQ1M45E0l/6yxVCDgBXJk61Gp7J0ID0kenChCr1eHMsG70WJn+nNi/03vEDoEockv0FU3qHADMD4uFJqAkG8YVyZ12O12wa2Lms2mtqy9vT10Oh1dcJXWpe2L0RhppsPhkJi0sY5GI0izFZRXpeJS5MjuxuZxSdNZcYsXtq+Lbjm0L/KrQiMt90OfBefyUEISNgn6hX4YjMMNB8OyXEYbeLkBn8tD2Sk4vQxh0C8gDHmY++CVEV6EIOj/H4Rn1xYIebdztxxuUfUeQTbL/o6w+BVhIOUdCxRn69sjlg5VRhY2VoRSMoPBkMpFLjvy3KIj7pzU5QeJ/4EI801lXUCrDr9X63iw9JjKN9frD3D77r3iL0uV8njdXAbC8+nX3n+4hFa7M3fY6cao1XcpSdIC/lGrjc2v2xgM/csmqA75cdrghys6dg+9PJK9Pqr1HTT2Io1l8SvCdUvleMiR5VJCveqxpYNP+clMs4V6Dq1O5n4DFgH+Mj/yc4wAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-1a291.png 148w,
+/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-2bc4a.png 295w,
+/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-fb8a0.png 590w,
+/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-526de.png 885w,
+/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-fa2eb.png 1180w,
+/research-log/static/progress1-ebeb2cf9a8cd5e59261e108cf9446634-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.8630838131798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEWElEQVRIx51WbW8bRRD2/+Nn8HP4igRCfEBIIFG1H1CFRBF8QAK1RCVpm6Rxk9jxS+LYsePEdu5u72XnYV52785pGwEbjXdudvfZZ2ZnZ9MhwLPQw0LWYh8b0PRB71BREn4/Ah7vAI9eAH8eAz+/AZ6xvDgBvvgV2nQJthsFw28HwE97qnZQVj7fHyJ58pzcY5anLyn9cYfSZ3tEf50Snu42TOgjDD/9iuiTz4gWG+owqJ/eLtGdjKk3n2J0s8DRxQin0wuU95ngIwz/7gN/vDOGnpsOeCJfViD5VBPBVxXEJlNqIb/9LXOElQh/d1yWeXeXIktTcncJsiRVcasNXMp9ck94Dq+Bc67p4xjrHQby7mgMdzAkdzSCe9WH61/C7RzDja+QDaZw+wO4NwMb4z5b3yFzGZNgybalU1WVL/IceeaoKksUvEtZFCwlctbFVrqc7TmqvNC+FJvMrawvq0bXQ2FQ+dAIV95bvPkv540s9qTx0XGeS+EwylVi43mJKsnsUHjQ12fmKYA1J0itE466/FLFyzh/1XKxBPYGqitD8A60zgxnnYGTXRfTKjWAolK76ncO5ArTbxuGtIkMBXB6C9o9M8DdM9DVygCfn9iC6w3oZd/0gzFotDA95B7J+tfDFmDiBMT8ma2AJDeXJzfma8aMZremLzZAYKuuSuP1mK9bgIs16PDcAA/PAWakgBwXbTfsGjPTdnzZbBRYK1h30gLkWNFwYYBDdmedGmBvZgs4bhjMG1bLO9NPptZLrMfXLUBmQL2ZAQqIBFsAuxe2QDY4DYuH89o9vD0PHvAGZ1ctQAl6d2KAQl0mCOB+cFM2CC6hP2viGQ5CQxQ2NEA+cprcaJYRU9fUkVPuX1nOSapwKFTn+BG7rDp7oz17QOfXlocKKGmyPzLA+yLAUff0vp22bZrYlOaSawYYShdReBzirWnr8fZ8wNbhkuP1YrNFLzwXBhG5x1qa/qMo4HQ6xXAwpNFohNlshl6vB7HJhJRr4v0S9ZB0mI3fbDZYLpe0vFlis1pjtVohSRItX8JUpa0/IFa+OG4sGgTfejJc+JLfKti2yldpr46UNrHX5UsPgQH1UF4NrTjIifIzSrE4hGsoxTculpDETSTu2/WQwr5cOfSqyVfILXAW4NLuL7tTF9vYtwtwXbF5B11bsIOV1muu2OKsJiqpPboZGcaKvsVQs8l2sBhKjDzVz2jNIOg+5OmDDOWjZsg7xUWRQRj/nwxbN+VDDP4VQ9mBd3uPYTzFNsMiLx5m6CO0XuOGXZtF21YXBL/tRZwrDCnlK3N9vaT2Uyk7sm0bSP73kQepDHkQ5sq8yFYBD9928f2jJ9SOy3yxwJdff1NXE4pPwee/WMkPlUnat9/9gMnksgG8nM7QfXdCWYiZtPH5BV7vH/Idt4RWVlJ85SZxuY9gV/M5jt4d47R/prFUQFGcy6kdD3FZDiXeV3Wb/wGQWyMPffs+x1Intn8Aj1T2q17ee2sAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-1a291.png 148w,
+/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-2bc4a.png 295w,
+/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-fb8a0.png 590w,
+/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-526de.png 885w,
+/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-fa2eb.png 1180w,
+/research-log/static/progress2-f90195aab4df4f9688c7eab42876c5fb-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-9e0ca.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.74936061381075%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAC4jAAAuIwF4pT92AAAD7klEQVRIx51WaW8bNxDd39ff0V+TzwVSoPlQFGgAAy6axGkOI73SBrksW27iK7KsyNZlrSTr3oPceZ3hsV7Zlu2EwhOv4ZsZcsjZgADFoBshxVV5ycfPZQJKlcbLfWD1HWHlDfDqE/BsG3j+H/CmAtx9AVPMEiwWcgN/7AC/bZlmAKVV8rGO2S+vKV5lrG3Q/OE7mq9vEb09JKxtnltCV1go+PYHom/uEIVjCphUd4YD7LdOqNrr4Pish73mMSqdJhRuKN7CUg34Z99amOlMmYmMNbL30JkFj2VaI0sVsixbDpFhIgPuB9E8UvPZDAyaTbmemjYm47Gp4ygCyyyHzPMaA+4HkUpVvdXA0UmdpD78XEMrPMV+tYLTfoiUNFgGkb4dAl06UrpURfr+kNSGqSG1jFkcQW86lG5GgIcljUclcE0MXILM/boBPNiAk7sWAT0tKzwtg56UiYEcZmwL9HgT9PtH0AvGGrc53uyck7mAgCc0LAlJbQLU1xLgxz2+S9pC2hLwjwsyUhdwmVDAmowLlbaNs0kE9Ce23RiAg/0S0fWEXvPZzJKcjoBa17YlRv/aXUq6nFCsnMVAc2DJwjHQPpMLAPx7YA/o1oRPnMt13rM4BbojSzxm14czq+yK/bua0AvKxq/zAXTH9s6Kq4Pporu3PpTiSQupuCjP2voHtm57KZknVJ5wIQ4l3jhs6O890J87jF3Qyz0bkzJXlC1gOWGR+CKWkBlC3g8te0JrJWLY2yB79JUIku6ZUr0RdH9MDKhwBOmn4RA898UIYn6+Or0u6o0TOubn67QXospPWJufsJifo3maIPoCBGmSqMl4gsFgQAxMRiOMhkPMplMkUYwkSZDE8WI7Tly7ULu2ySnydPOfSRBZIWXErif/2o1pfvLJ5RKlbNYx67WVCCSTmHzDhCJG5TqI767JwpxGzRg/DLRZsyRpmi+O2VqvJOVxT6hdBrN6O0NgGtvb0ejbVDxP7D0Wa7RNTt4ytzRv5y6zBrM2ZQfZKfNLxFlJiPyXOvfFTW+h7NklC6XvNNg9lD3KyGrV+twC1xblfg9vZyFr8ou8BW7+Ky10ZEWtxfZFCy/KCqGSDmvLLfSh4U/RzDsL0iS93kIW9iFGRY3eimLfwI9li5Z5xcZl+Zzo9wfkCbylPLZIxCFDHFbyDWTiwMmKnLfWEO7uHeDnlVUqnlzY6+P7ez/mX1lmUnLMd+s2DViXTP3T/RU0W+1zwnaHv2UOKhRFcW5+o9nC9ocd9Pl+m8Vi1QkHevkziJOWWCulG/Ln38EnHFZrZi8Du6eaDyCh4n6Iy3Io/r4at/nTTm4NceIq3mdxV2Rl7H84bZ1mHKdjcgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Design&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-1a291.png 148w,
+/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-2bc4a.png 295w,
+/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-fb8a0.png 590w,
+/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-526de.png 885w,
+/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-fa2eb.png 1180w,
+/research-log/static/progress3-4916f4fbb55175aea37b4c425effe6ba-9e0ca.png 1564w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Low Fidelity Wireframes & Prototype]]></title><description><![CDATA[I’ve mapped out my application with low fidelity wireframes and a prototype. The follow images are easier to digest in the prototype form…]]></description><link>https://www.williamipark.co.uk/lo-fi-wireframes/</link><guid isPermaLink="false">https://www.williamipark.co.uk/lo-fi-wireframes/</guid><pubDate>Fri, 30 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve mapped out my application with low fidelity wireframes and a prototype.&lt;/p&gt;
+&lt;p&gt;The follow images are easier to digest in the prototype form which can be viewed here:
+&lt;a href=&quot;https://xd.adobe.com/view/adbeb1ef-8def-4605-7732-c76275577e7c-db8f/&quot;&gt;https://xd.adobe.com/view/adbeb1ef-8def-4605-7732-c76275577e7c-db8f/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;However there is an extra image below which goes over the different task icon states.&lt;/p&gt;
+&lt;h2&gt;Induction Flow&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/i-flow-1-facfc50bcb9a0d475ed802aef20e5743-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABZklEQVRIx+1Vwa6CQAzk/wWFhA/gIl/FCQwaVBSMoILWTJOaFVkQQvIOvk0mLdt2GKBdDJp4Gf+Ev0T4eDxedgjU2g+FauDb1axpVXi73RjX6/UNsifx+/2uVyibVVXR+XzmQvhSLMAeYmVZMr4iFDKguaAKcdhBhFjyqLIQu1wunDuKUL1uko8ilL2iKOh0Or0VjibEI9Z1zdcgEH8woRQIgTQyboCcQYQoQovoGl3a5ytCVZn0obSQQFqn+a61o5dlGa1WK4rjmNbrNftRFDHCMKQgCChN0/7RkyAUomC/39PxeKTtdktJkrz8zWZDeZ5/1GlnGcmHw4GVggS2zVc/WKdCUbLb7VohsV5CsSohrIpRhOpp0oW/O2An+wX8yG8UczklpleI4e8CDghBXy5gzOdz6sJisWDAtyyL+vIN0zSpDbPZjIk8z6Plckm+77N1XZdjujoDd+0CSG3bZjiO81KqwxMCZc4EvXkdVAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Induction Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/i-flow-1-facfc50bcb9a0d475ed802aef20e5743-a8524.png&quot;
+        srcset=&quot;/research-log/static/i-flow-1-facfc50bcb9a0d475ed802aef20e5743-bfbd1.png 148w,
+/research-log/static/i-flow-1-facfc50bcb9a0d475ed802aef20e5743-f2961.png 295w,
+/research-log/static/i-flow-1-facfc50bcb9a0d475ed802aef20e5743-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/i-flow-2-450f9049723318f4a8f06fa41aba6330-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABbklEQVRIx+2Va6uCQBCG/f+WF+gH+MV+VpBJCmZZkeYl5/AOjGyevCKcD52Blxl3dp4dcXfVaGHT/oHfBKzruvFTpNb+6lBNjLV2zccOi6Jg5Xn+JhmT/Ov16u5QBsuypMfjwYWIpViEMeSyLGONAgoMahu6Qh5+EhAmryqG3PP55LmzgOpzGz4LKGNpmtL9fn8rnA3EK1ZVxc8ASDwZKAUCkI2MBTBnEhBF2CKfTgIMOSw0CoiVsQ8BRpHqRQIDePDoSdL3fdrv93Q8Hmm329HhcCDP85pY9mjv0VN1uVwoCAKK45j9+XzmOAxDOp1Ob8DeV4Zdr1cG3m43SpKk8RByEBZQP1hnhzAURlHEnUBd8SBQvAqEV6VCRwPV26RPf3fBLvYL+JLfKM7uklq+Q5zTPuFyEA3NhTTDMKhPpmmyEK/Xaxqar61WK/okXdcZ5DgOua5L2+2W/Waz4VxXnYZV+wSoZVks27abTrv0AwgHzjfghPi5AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Induction Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/i-flow-2-450f9049723318f4a8f06fa41aba6330-a8524.png&quot;
+        srcset=&quot;/research-log/static/i-flow-2-450f9049723318f4a8f06fa41aba6330-bfbd1.png 148w,
+/research-log/static/i-flow-2-450f9049723318f4a8f06fa41aba6330-f2961.png 295w,
+/research-log/static/i-flow-2-450f9049723318f4a8f06fa41aba6330-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/i-flow-3-3e11f22d857f240941a08101cd5137f2-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABYUlEQVRIx+2V2aqDMBCGfX/rUvABvKnvpZQKdUERt2qdwz8wkva4FuFc9AR+kszyZaIxanRw0/6B3wQchmHs90jN/VWh6tja3nMmK3w8Hqy2bV8kNvE/n8/5CsXYdR2VZcmJGEuyCDb46rpmbQIKDHpvqAp+9LuAaLJVafA1TcOxHwHV+Tv8I6DYqqqioiheEj8GYot93/McABnvBkqCAOQgYwHE7AJK0txBhw8LbQJiZTwz2aqcRTlGsgPEwL7500NwEAR0vV7pfr/T7Xbjue/7DFMfw6bLAdVFUcSwPM8pjmMWbFhs9XJQjQAkScI9lGXZOIbSNGW/+sImgeIAAJVIVXNaBUqvAtGrEtsuoHqbLOnvLtjDfgFf8hvFt3ukjq8wDENaEi4F0VospJmmSUuyLIuFsWEYtBavnU4nmpKu6wxyXZculwt5nse94zjsm8vTsOqSALVtm3U+n8dK5/QDtOvPVDM+buUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Induction Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/i-flow-3-3e11f22d857f240941a08101cd5137f2-a8524.png&quot;
+        srcset=&quot;/research-log/static/i-flow-3-3e11f22d857f240941a08101cd5137f2-bfbd1.png 148w,
+/research-log/static/i-flow-3-3e11f22d857f240941a08101cd5137f2-f2961.png 295w,
+/research-log/static/i-flow-3-3e11f22d857f240941a08101cd5137f2-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/i-flow-4-aff7855731344893da6b0c4ea610eb4b-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABeUlEQVRIx+2V3Y6CMBCFeX8EJTwAJMToDU+lSEDxJ0YRAcecScYUtrhgSPbCbXIy7Uzn6wBtMWjkZvwDvwn4eDxedojU3B8VqoG+rZ2jrfB+v7OKomhIfBKv67q7QnGWZUmXy4UT0ZdkEXyI5XnO6gUUGNRuqApx2EFANHlUaYjdbjee+xFQHbfhHwHFd71e6Xw+NxI/BuIRq6riMQDSHwyUBAHIRsYCmDMIKEldGx0xLNQLiJXxzgSq7kUZ4wkwB75eRw8WFazXa1qtVpSmKSVJQlEU8RhA3Tl+ezmg0izLaLPZ0OFwoOPxSNvtliWv4+3loDpPpxPDYCHAIBnv93uOqx9MC5SAVLPb7V5Wp1+BYttAVeoivYHqbfJOf3fBjvYL+JLfKE7EmBq/wjiOSSecYbWvky7PsG2bdJpOp41+W115xmQyIVWmaXKC7/s0n89puVxyPwgC8jyPFosFhWFIruvy3Ha+YVkW6QSo4zgstcrZbMbqynsC39HQs3GzNmcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Induction Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/i-flow-4-aff7855731344893da6b0c4ea610eb4b-a8524.png&quot;
+        srcset=&quot;/research-log/static/i-flow-4-aff7855731344893da6b0c4ea610eb4b-bfbd1.png 148w,
+/research-log/static/i-flow-4-aff7855731344893da6b0c4ea610eb4b-f2961.png 295w,
+/research-log/static/i-flow-4-aff7855731344893da6b0c4ea610eb4b-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/i-flow-5-435003a0f395bcfa25b3733e451f3e8c-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABWklEQVRIx+2Wa66CMBCF2T07IXETroTwx0cQUEQJyHPMN6aNJjcBpcn9w0lO+vR0ytj2eOM4Std10ve9DMOgpA8CU07BzPMQ2O12yv1+L1mWfUyaIng8HnK/3zUoj844jiVNUy1Pp5MkSaKDc1FVlRRF8RIsy1Iul4vl+XzWkhUZm0PmXq9XrXuEizLf0bBpGqnr+iuiQ+khxhYJ2ay4BJoUEpHnuYYNTba/JfnQpNxuNysG+Y6/sG3blyANolxKK0hWnQv+us0/t+w8wvf/4BLaLLuCCopj6NFzST16Lul+y3Mu0W/oPsJVcBVcBf/1LLu6ufWCxcsgyOv/flny6DBm2tSn+uwFGwSBbLdbXYUHh0mHw+HDmvADPCT+x/RRx1tilGjrlqn4vi+bzcaGjmgURep5DBAMw1DtmwGC9DFmkwJ4V4nGgAiPx+OHIB4IQ/o+jz6MKu4NPAHkJAif2R9AIwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Induction Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/i-flow-5-435003a0f395bcfa25b3733e451f3e8c-a8524.png&quot;
+        srcset=&quot;/research-log/static/i-flow-5-435003a0f395bcfa25b3733e451f3e8c-bfbd1.png 148w,
+/research-log/static/i-flow-5-435003a0f395bcfa25b3733e451f3e8c-f2961.png 295w,
+/research-log/static/i-flow-5-435003a0f395bcfa25b3733e451f3e8c-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;New Habit Flow&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/nh-flow-1-4ebc55b755ae2451be0eafd3e07424c3-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABiElEQVRIx+2W2YrDMAxF9f9fmLZQSp/apAvd96ocwQ0mTLYhD8NQw61VS77WYpmYN4z3+13Okl+vlz+fz5i1nq4ZP3me++Fw8OPxGPJ2uy2NqzidTn673WLebDYB5PP5HDBOhQQFpIvFIgjrxuVy8cfjEZtXq5Uvl8uQr9drwPAKIyAFMus/gUP3+33MeAbSNYOAEKrQIX0ROVyv12UOd7tdY8htw8hHURSRC/KITG7w8n6/90JUmZApucov9CHCqbIoxI3AYtWoD0pCPOsbWh3gMsrdFRSuCdhEUcihkOYxbalqSupyaWxQdwAqzH91D/8BpJ2uDXGrQzhF95FiqW8JhYP1OKQPhR4PyXGx2ZR2jELQGrJug1qU9bSHkbEzGcsTGeIlMh6LAFmE6Nmrfi6vDaFgoFdESj1ROhA51YtM0UlvYhZkUCe36c0HHlb3Mv8Ww3v4JfwS/kvCv996bd8q+kzr/G0zGo18SFiWZd6EyWTis9nM5/O5T6dTb7Pv5OF4PA50sf0A9an78Q6RGWcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;New Habit Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/nh-flow-1-4ebc55b755ae2451be0eafd3e07424c3-a8524.png&quot;
+        srcset=&quot;/research-log/static/nh-flow-1-4ebc55b755ae2451be0eafd3e07424c3-bfbd1.png 148w,
+/research-log/static/nh-flow-1-4ebc55b755ae2451be0eafd3e07424c3-f2961.png 295w,
+/research-log/static/nh-flow-1-4ebc55b755ae2451be0eafd3e07424c3-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/nh-flow-2-269a5b204164a872f3d4fc503a7266b1-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAABtUlEQVRIx+2VyY4CMQxE8/3sHLhy4cSPse/7bvQsVStqTS/M9GlEpCJux7HLiWOC5YzX65XMkp/Ppz0eD5+lj3WBn9lsZvv93g6Hg8vr9ToxTuN4PNr1evV5tVo5kE+nkyMQFScs4HQymbjDrHE+n+1+v/vmxWJh0+nU5cvl4giwwghoARn9TyDobrfzGWYg1gUckEIaCvIp/AyXy6VHgMF2u81NuWgEzgOHnAfOkDlP9OB2u5WG3zICjjabTcISGR2pl3GKTXIpbILdeDz22+aWubn5fO4GYlqExCG1paKMCxR8mjK+AmmWBWWRB2z8UmAliF2acdmzDGzQ6wCcJ996PXwDnJYqG/LWCyGK6FOkerekQmA1h7hRqHlI9sJmk15MnEKs0y3GTzQGeuy8DvlgI7VHNAxgyRrsWEMv5jikXhnqMhDzsiEVFOoipClmyAqIrC6j49GR8K31kKYugyy5aD1YxSNkdebfonqGX4dfh//SYbrl/xXVM+T/OA+j0chRZCeEVqtlVSI0Gg3LQr1et16vZ4PBwIbDofX7favVapa3JzSbTStCp9Oxbrdr7Xa70PYNkNTCLuLRHvIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;New Habit Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/nh-flow-2-269a5b204164a872f3d4fc503a7266b1-a8524.png&quot;
+        srcset=&quot;/research-log/static/nh-flow-2-269a5b204164a872f3d4fc503a7266b1-bfbd1.png 148w,
+/research-log/static/nh-flow-2-269a5b204164a872f3d4fc503a7266b1-f2961.png 295w,
+/research-log/static/nh-flow-2-269a5b204164a872f3d4fc503a7266b1-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Today View&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/tv-1-bf532bbba22af575b15d75cb9add87ea-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAAB5UlEQVRIx+2WWYoCQQyGc3HPIt7Cw4gP7hvu+1bDF/ibsrW7WnFgHiYQUhMzf2evsvv9Hi6XS7her+F2uzmjE0OSZSQbA6DT6Th3u90wm82eDMsYOp1OYbvdulOGYjweO9BwOHQ5mUz8vFqtQhXa7/dhuVx6pHY4HMJ6vQ6bzcYlIDAG6I7H4wNjn2cAseVscc5eEb8LjJCwU67zOedsqUTvdrtwPp89HDwBtIysLNl5APTo8KSoYFZUfjwiTIjcTqfTrKL8VtROlQCRJL0SYFnIVI38xQUi5LKGTxZFrYKMc1rkiGn0pIhHMPZMYabIMByNRj56TMl8Pg/9fj8bwXyf5Wf9yUOFwiwiYXoP+WoqUmyqItWrslWSIQOkvOEZ4dJzLAwtCbVM5RwqVFqED8CqLmf0fJAPp9g9xDNYYAIRx62TYm8bgfAFbW+kgD/OIZVW7haLRZbPd4rlOVTIsXdxXvi7KpsKoNaJ5Sds4ctkqVvtXf6+h/+AfxDw19rmG8vVPdSoxbecWPsxHs2UzrQA6vV6aDab2SWPEduGV5guJ/6h1+v5VpKOM+9K9mX2WOJQq9VCo9HIXAe03W77GhMB2Gq1Hq4EANHplWHKHdcm3ojwcDAYPADyxmFfxnbouIb1OP0BBPESp3r2/uwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Today View&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/tv-1-bf532bbba22af575b15d75cb9add87ea-a8524.png&quot;
+        srcset=&quot;/research-log/static/tv-1-bf532bbba22af575b15d75cb9add87ea-bfbd1.png 148w,
+/research-log/static/tv-1-bf532bbba22af575b15d75cb9add87ea-f2961.png 295w,
+/research-log/static/tv-1-bf532bbba22af575b15d75cb9add87ea-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/tv-2-84405ace1b5d622a20cb1899ba93d42d-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAACJUlEQVRIx+2WyaoqMRCG87oiPoLPIu4E3bjzBUQXPoKI84DzPFuHL1AhqJ3uA33gLm5Bke4y/Vv115CY1+sl9/tdHo+HPJ9Pq9hUEV1DonsMAIPBQPr9vl0Xi8XHxpAi1+tVDoeDdcpgnM1mslqtZDwey3K5tO+TyUR2u50kkdPpJJvNxkZqLpeL/XC/38t2u3XKBv6V3309n88fCiDf82x8zr7xwu8KRkhq81W/59nEEX08HuV2u1nFE0BDYkJkfwPAhidRCTNR6YdgwkTm87lNGNlUb6PKKREgySFR2ABjjQQMhUzW1BsFIORQwccmRUuF1ec0yhGjrafp91tQhWcNM04MGyG81+vZtqNjRqORa8H3Onvv9Q8PCUU9IySU2mP91hVxajlsNptSr9clDTHr9Vqy2axkMhnpdrsyHA4tBayEzhSChsSAcFitVqVSqbhsasMTuto0WawhNX72MGgnYFelQ96nTpTaaVMul6VUKlkDYAD4IH4JJeIwl8tZHuFwOp1a/hiylBJ8EnaSY8C1XqvVkkaj4erML26fN5+GKDWEppKUpyCHfl+mUodxp9pv1UjK8h/wXwT8s7JJrbBpF20/PeVUdfLoux70IZvRxi8UClKr1dwhzyYmNrcwHRJ8wCTi4Fcbz9wrmUjussRDPp+XYrHoXAe00+kI480fHu12217dVADEprcMo9xxbOKNCh4yC31A7pHMSX8fNmYoVxXkB8BlBOIvAiq7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Today View&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/tv-2-84405ace1b5d622a20cb1899ba93d42d-a8524.png&quot;
+        srcset=&quot;/research-log/static/tv-2-84405ace1b5d622a20cb1899ba93d42d-bfbd1.png 148w,
+/research-log/static/tv-2-84405ace1b5d622a20cb1899ba93d42d-f2961.png 295w,
+/research-log/static/tv-2-84405ace1b5d622a20cb1899ba93d42d-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Week View&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/wv-0-e1f3a6b2e8a5b1a12ee47e484dcad67e-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAADFklEQVRIx62WzU4qQRCF+/l4AJcsIW7dmBB9CVj4ALBBV2yJG+MTuIeIIBj/+BVUQOvmK3Mm7cQZ7jW3k870VHdVn6o61d3h8/PTptOpTSYTm8/n9vLyYnFjPqtpju/Hx4ePw3a7tX6/b7e3t/59fHy0t7c375vNJlHI6rTlcmnPz8+2Xq8tIAAdyJ6enhztw8OD3d3dOeK/ae/v764PyvD6+mrpLoTp/1iWpRewmtVxCbdZvFqt3CXFK6uHPFdYQHwwxO4YVVyzWsgLNgYYEx+SJrQkMitZIYsKoKKDcjwee+L4xyjfLEqFmEsxOgyBBnTD4dAGg4GzgBDEdPpnl0EHfaAT49lslsvNsItjoCEhcI2+q4ICCuwOChDJTcUpNpDu2kQbOkIydn19bb1ez2NElXS7Xf+ykI2U1XRjjhAAaLFYfBnEMhNkkYDTGWOc+qS2kQlJ3FlHJ7YY9UphIYoIUJb7oJJrZJx/wsNX43TVIPOkjEYjpwYLcVeZZEcaciWE2CoEzMuo5gMJODw8tKOjI7u4uLByuWzVatUXoAhaFBmzkapFMUNf3HSXEVQqFTs+PrbLy0vb39+3Wq3mC9gZRRlnLEX0MIgx2MG8GwQmQSUJNM5BVQJyuYaSDlPFV+cl63XSB5UYCgo+X2KFi/yrhoVCSWGstZIHwRdlcEs00cK4x/T5aewIgQ5KUSbvYtrVPIbn5+fWbrfd7dPTU7u6ukriJdfYUBnWBaZTHHRKTIDUe3t7ViwWrdFoWKFQsIODA1fUBSa+kSSUmBNXCZEuKOR+fJ2dnVmz2fRKOTk5cT4iZ1d2j+8UIRQqxU7XQ9Bhqos6Pl1EGxaKSqoemrxAV/LArlhXZhmnEeg60HGVNw7imO6KuP8k29WD/ecW8t4tv+m5CH9D8BA/O9LPiviplrculgXxSseQqoKswUuIGz+SIHH6kRTLEpdvbm7s/v4+gU4llEola7Va355tnU7n26OUMbKEh3KLa4AyVANtvV5P6lqHKS+I+N2IBzxURfLEIIuYVKNmdU/HLwldmfHG1LtkfwD5Y+dR4VaNigAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Week View&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/wv-0-e1f3a6b2e8a5b1a12ee47e484dcad67e-a8524.png&quot;
+        srcset=&quot;/research-log/static/wv-0-e1f3a6b2e8a5b1a12ee47e484dcad67e-bfbd1.png 148w,
+/research-log/static/wv-0-e1f3a6b2e8a5b1a12ee47e484dcad67e-f2961.png 295w,
+/research-log/static/wv-0-e1f3a6b2e8a5b1a12ee47e484dcad67e-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Week View - Task Icon States&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/wv-1-ad3b8d1539541741b65ae18a8b618cdf-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 84.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAAsSAAALEgHS3X78AAAA/klEQVQ4y62USa6DQAxEuTM7dmy4IQsOwIp5HoWjZ8ko/ytJo4SWrHajdrnKduPJzcu7HfA4DnXYX/lfMXwONrB39v/+W4ZVVUnXdU4GLubKME1T8X1fwjBU0GVZNEGe51IUhfrYMAxuhgYYBIFEUSRt28q+79L3vfokAAib59lZllMyATC7ZWzIjKS6rmXbNlnXVRPADpbjOMo0TfqNnTMKiMPnHoYyBQQojmNJkkQDLEGWZVpDk22Ns/qaX5alniHjfTtvHyUjEQmwgDY7WZumUfaYaz7PphigdRJAmgOY1YY6XhnqP4MNKDX4ZahPwKtP7/JLeRX008/hzvUAU7w4w5BLfqgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Week View Icon States&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/wv-1-ad3b8d1539541741b65ae18a8b618cdf-a8524.png&quot;
+        srcset=&quot;/research-log/static/wv-1-ad3b8d1539541741b65ae18a8b618cdf-bfbd1.png 148w,
+/research-log/static/wv-1-ad3b8d1539541741b65ae18a8b618cdf-f2961.png 295w,
+/research-log/static/wv-1-ad3b8d1539541741b65ae18a8b618cdf-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Month View&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/mv-31d5d34cdbd3fd0f95cb3950305e385e-a8524.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 375px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 177.86666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAkCAYAAACJ8xqgAAAACXBIWXMAAAsSAAALEgHS3X78AAADLUlEQVRIx5WWW09qMRCF+0/9a/4DH3wxGHgQE3jQqCAGwTsoIiDKHUR78s3JKj2bi4dJmnbPtKtrptPpdj8/P/7j48N3u13f6/X8YDDwsWBfJ7LRf39/29jN53P/9PTk6/W69a1Wy08mE2tfX19hwbqGDIdD3+l0/Gw28w7F+/u7MWu328a22Wz6RqNhjP9HptOprYelgwnIKOMedtjG4/FWzY1GI2NGDGGmeL68vHhsv7mcbA5UQD4/Pw2Ivt/vW48Npts0J/fU+JYO92kA4z5j9dJLp7EdCgGFFYIRIcCcHAI42RDbcS/OAo1dnGerxuvsAB8cHNj4+fnZHx0d/QXUsesAYAsbFsNaSavElY3+/v7edMyr1WoLwHK57E9PT02RyWQsL3EhlUqZ7uzszBeLRRsfHh5aVrBBOp02HTmbz+cXgNwOaCO3t7fGlgXVatV0pBNzkIeHB7PDUnYuAPoAeHd35y8vL02Ry+UsjWB4fHxsuqurK399fW1jdHjAhtls1nRvb2/+5ORkAQhlxYPFiqM2gT1zkEqlEq6ZwkD+og+ALMBVBBABXlxcmO7m5iZsSKxJelyWHUDOIQByzXAbKZVKAVAMYEccFWOqCwwLhUIAVEgMkNIFC+T8/NzSAECdPLvrADhNAGCouHEBFB4DZLLob5JNxVbidOycXDJxudP0uufSxeOk3ekeExeASRkSF73q4zbNAUTQX19frcGUJFZys+s2zYGqj2TljsuV3pnfxhZD2FDPkgcgXVy+WCi7xniicag2qnO8fIwBIJWYrKBrriqQNmSu1rtkKuzv71sMcXtvb896VWSVN8Dj8sYcziIwZIHqIUZ2l0vq5RILk/VyCVBvicAFCCstiF2WnbnK2aUYajFMmcAidhXwKpcZa0PVyI0MxUAv4Tr7EkMFHSOs2IBFqnurGKJPxjAw3Eb0WK0tDtp91X/MKh3sNs2zu6zCoCKBW/T6LeFbOu59PI/GPI2Dy4+Pj/bYxK5R9immEm7Rzs5OeDKVl9yofw6FxTwD+vVQggMQA3KDdnd3w/uj5GaeLoaTQS5LiBWlLNapsigjVFjYVPP+AOOa5SmFkfs2AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Month View&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/mv-31d5d34cdbd3fd0f95cb3950305e385e-a8524.png&quot;
+        srcset=&quot;/research-log/static/mv-31d5d34cdbd3fd0f95cb3950305e385e-bfbd1.png 148w,
+/research-log/static/mv-31d5d34cdbd3fd0f95cb3950305e385e-f2961.png 295w,
+/research-log/static/mv-31d5d34cdbd3fd0f95cb3950305e385e-a8524.png 375w&quot;
+        sizes=&quot;(max-width: 375px) 100vw, 375px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Characters]]></title><description><![CDATA[I’ve created some characters which may or may not be used in-app. If they’re used I would only imagine they’re used very sparingly. I want…]]></description><link>https://www.williamipark.co.uk/characters/</link><guid isPermaLink="false">https://www.williamipark.co.uk/characters/</guid><pubDate>Tue, 20 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve created some characters which may or may not be used in-app. If they’re used I would only imagine they’re used very sparingly.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-2b7c4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 99.75864843121481%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAC4jAAAuIwF4pT92AAACn0lEQVQ4y51T60vTURj2L4mgT0EEZYEFRRfoAkFkQVcoqOhbKXRZTlsxHbM0FW1kN8jFTE3d0laIBuIMWzNdarVK5zbd8q7Tzc1tv6f3/e33a1u1Lz2cD+c95zznvO/zPicD6RCLISaIE0EaUXGF1mgi8FaGdLRvFN3feEIbgRCCYT4XiWLSn3KjIC7KEMmfx7BHi80F6PyC+QCKW3CvDW+H0PIReXUYGkPbAHq+8+1POnHXzFuuaZnc8wM7i7BRiZouLIWgeA5VI84+wCkdTlThUg2yy3G1FserkKOH9iXOPYSpNynt1j6+1b+McATeOX7f4UO/CzYnPDOwu+CcxCc3RqcwPAHrMMZnk8h/qpVSWzqI5NklTlVZzw8SRiaRXcY5++Y5pGdP38czC89/zkNRi1tNXJ1EfmHFhjxsykfDew6fdmG7Gltvwmjj8MJjZKmwW4OVKAzdWJ2Dddfw2i6Tv3pZjENlsI1wSEqe1CFXjymxT3oLdhTisoHngx6cqcaxSq4/UXMowuOfEMS64oYhLK+wFxI1c6vHYXcnCB+GWdI4phe5rgGPFFKaTVYEwjKZ1N+rRaYS7YMcWhzIusF1dohhqRlrcnGghOX0zeFoJfbfxp1WmUynSR46Xd3BIclGhtulQb2oHxnucDn2FXMKEwu8ReoWNCSlTYSKN1gISvZutKLZJtXpD8JkS1TR64ThXVKr/hciORKDrp1NQlnF9dSYUPKKG0ugdK7XocjI6wRzPwqN7FmJTCltUWHtFc487pnMfKxXSJ6hPlNIddInI/42NVZdhLpZJtOD5x/hYCnXxn0aYW+SpHHPkB/IQkcq2LaUC23RRaQik+PNn1nkH/Mb1DyHV/r9BPpD7plE20mzcCSNYELqRPhrXcYv18sm2mNjOs8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Characters&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-1a291.png 148w,
+/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-2bc4a.png 295w,
+/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-fb8a0.png 590w,
+/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-526de.png 885w,
+/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-fa2eb.png 1180w,
+/research-log/static/chars-e258e7f4c4f8d7994e8ee663ccb16c14-2b7c4.png 1243w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I want to use them to add some personality into the app in key moments of the app, such as celebrating a milestone with an achievement. They would also be used in advertising images, store images, and the app icon.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Brand Colours]]></title><description><![CDATA[I already looked at some colours while I was designing my logo, but these are what I hope to use in the app. There’s a possibility that they…]]></description><link>https://www.williamipark.co.uk/colours/</link><guid isPermaLink="false">https://www.williamipark.co.uk/colours/</guid><pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I already looked at some colours while I was designing my logo, but these are what I hope to use in the app. There’s a possibility that they could change but this is what I’m working with right now.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-e3ca9.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 44.25863991081383%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAABeUlEQVQoz9XSxy/DYRjA8Z6Ii7hwKw6oA0WQSszEaqT2LEEaM23sUeNgpg0lZkKU0tYMUTHaCOHCvyQS7e/r16aJeXLzXp7bJ0+e7ytBf4RQvQI1q9BlpefhCcX5FRnn15Q473h1u/E+j8fjm3sXLjqnF+k2rDC1aWXGuIxSWUNpWSP1DR1IqFhCiBkA2SDkGyk8u0ayYSFwcxep7ZiXtzcf5PaDhi072c3dFLQN0DRuRNPWR1iYjIjIJOLiM0Wwbg1BPgIJo6AyUeJwEWS2EbJtJ/rg9Ac4bznyYcW6EVonF+jQDRMekYAsNo2U1DwRrBXBOD140SITxQ4ngWYrwSIatf8LuHNIfms/Kq2elgkT7dohpFI5MTIFySm5/wL8csOFbzc8+8MNy8XK0f7KeR+VA7yVrb9Xzmru+lI5VKwcHpnorzx2giBuiXodeu30Pz6T7rgh58JJhev+0z8UfNN2eYtudom+uTVmRNwwt4pKpaaySkNjk5Z3kzTlFPU4AU0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Colours&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-1a291.png 148w,
+/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-2bc4a.png 295w,
+/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-fb8a0.png 590w,
+/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-526de.png 885w,
+/research-log/static/colours-950f22a661c60dbf0e3a67fbf15e0df4-e3ca9.png 897w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I’ve been thinking that in addition to having these set colours for the default theme, that I may include the ability to customise colours inside the app, maybe even as a reward.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Logo Generation]]></title><description><![CDATA[I started the process of building a logo for the project. I’m going to take you through the process of each iteration and what I was…]]></description><link>https://www.williamipark.co.uk/logo-gen/</link><guid isPermaLink="false">https://www.williamipark.co.uk/logo-gen/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I started the process of building a logo for the project. I’m going to take you through the process of each iteration and what I was thinking at each point.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-36f5d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABR0lEQVQ4y73UMUvDQBQH8J6CQhtRLIUMHQMhJjRgsrkpCNkUIahLSYI2g5YMXTqok/g5xFE/YIvS5/+ON5wltIZEAz8uebn3z10IabX++RDaWKZWaK3mE7iCQ7iGIzaAUzgGr0rggENTGMEFZJDADZzBZZUdbMMOj3tg8Pk+bMEu31+5sk3NRsnTRUlN7xF/+nkcwD2/r7wi2TOGUA+8A6rpWQ8ccXEOX5IQ4seo15dqc+59LAuUExYVfXLvkx6Y64H9fp8syyLDMMh1Xep2u9TpdNS1PDdNk9rtNq0N5K0soiiiNE0pz3OaTqc0HA6pKApKkoQmkwllWUZxHKtA9KxfYa/XI9u2yfM8CoKAfN9X12EYqhU7jqPu/XrLTbzDWy7OeIIit7MKz5tx74MeOG7gO3zRA+Xv6B1e4a0i2fMB5438QJePb/BVwnQvyOw4AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-1a291.png 148w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-2bc4a.png 295w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fb8a0.png 590w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-526de.png 885w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fa2eb.png 1180w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-08f6a.png 1770w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-36f5d.png 2477w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This iteration was just to get something down on the page to work with. You can see that I already have the soft font in here. I had the dotted underline pattern to indicate “beats” to try convey the tagline without using the tagline. No colours or anything, just something straight to the page.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-9e5f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABIElEQVQ4y+2SwUoDMRRFJwjF7rQgQhd13Q5aBTdWqYW2NLOpOxf6B0WRbipCmSz7D35j8g89mWYyqVNh6KqLBg5JbpL7XpIXRcd2mC1RxvcZqYlkqv08X5OpqWaYb0ysSWpNrJkWmAg04cyFC5DpaCLXNmf/BEuqRq90ZZ+huSDiLdyRYQtiMhlJpU/RLlk/gybEcIPWCJ8nNBTuna7gCxTM2Lhi7VsqM+fqv4w/CbJA/2H+wZ4l1MJ/2M5QmXPowhO8wjtrb5iMGU8xurdz3nxA1hO0F6iXDG3Krj8hm2cOjdjwQBZDzPqMY7iGNth5Bx6hZz+vZBia7ld2encdyrwO1VaZ+NrMdF9ahVZKqLiycQWsC+OgwP9j55WP7XDaGqL+4qpu7aWuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-1a291.png 148w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-2bc4a.png 295w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fb8a0.png 590w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-526de.png 885w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fa2eb.png 1180w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-08f6a.png 1770w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-9e5f6.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Experimenting with colour now, because I thought it was going to be important to visualise what I wanted from the logo, and it also worked way nicer with the type. I’ve got the tagline in now because the dots weren’t doing it for me.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-36f5d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100.04037141703674%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABmUlEQVQ4y2NgGAWDE7z17ITTb4D4rWcHkO4A85HlYGwiDOwA02/ABnZADe1kBGMPMA3jI8Sh+I1HB4qjMFxJFfAaahjQZaKvPDsNX3l2Gb7w6pJ76dmlA+S7PPTp5QDyxZ95dQsAaSmgem2gGr3nXt1ClwMmM/x3amC449uPMPCDezsjiH7v0SH/yb0t/7N7W/1Xt9YsILsdyC7/6N5eAMSzgfxcIC4Dqq8EiucA6dpvbq1sIL1f3NsQBp4PnAKmb/tNENwSMV8fiG0OhcwMPxU0LfpY8Iyo00HTXIFs/z1hc0zOBU6NOhc4xQEo734pYLL/xYDJnCC9ZwOnIgw0qL0MYXQ/Y3auOO1gV3nW1a7qrKVt1Tlnx8ozdoa1l7Stqs/r2lee1QJiO4vqC1pAddZANdYMy/6DfSfQdh8tIP//Jz8S0PWGFB8F0+HFRxgCS44x+JceB9NhQH5wyVEwG0QHAOnIosNAdYfB/Jzc3QzeZSfAen2BeuDAp+w4nPYF4xMQDFTkUwplg8RLkeSg2AdqEIqBo2BwAQDoEd060uecBAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-1a291.png 148w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-2bc4a.png 295w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fb8a0.png 590w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-526de.png 885w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fa2eb.png 1180w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-08f6a.png 1770w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-36f5d.png 2477w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Adding some contrast with colours between the tagline and wordmark as I thought it all blended together too much with the single colour scheme.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/004-c27be15353c39551810319109ac1f701-9e5f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABjElEQVQ4y2NgGAWDE6irW8BpdQ0gVjeHYA0IHyyHxCZsIEwTkiFAzAjHEAuAbHMkcXO4HEwvClBDF6AEaCC8JaqpYWGopWlpqKNpJQektYF8F2MdGw4dTUtxPS0rASAtBRTTBsrpAdUIORk6MfDI6zFY6NohDFRSM2ME0Srq5nIKqqZ58qqmdbIqJllAdrucqmmZopppIVDNLJAcEJcB2ZVANTlAulZGxYQNpBfIRxjoaewCpq317AUzbQP0gdg6wsIzzN/ULTrYzCPKz8TNFcj2i7fyMfE2do3yMnZxiLTwcnczcvYHYk6QXi+oGWDwN7cVTP9vnMP8PK3W/k1Gvcu7jAZLIHZ+nV5v+ye3VftTZqPum/R6zbcZ9bZfs5o0geqs32Y0WP2fvxfsu/8Vk1DD8f///2THAYbeqwnlYPpSfBnDzcQKhttJlQw3EisYrwDFrwExkA2mQXIgNZcTysD8Y9GFDPeSq8B6QXrg4C5UEETD8B0QBiq6A+ZXQsUrUdSAMdQgmBmjYBACAPQWlBHoZOrMAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/004-c27be15353c39551810319109ac1f701-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/004-c27be15353c39551810319109ac1f701-1a291.png 148w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-2bc4a.png 295w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-fb8a0.png 590w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-526de.png 885w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-fa2eb.png 1180w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-08f6a.png 1770w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-9e5f6.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Changing up some colour here to experiment. At this point I was getting unsure about the previous playful colours. Pink and blue combined makes me think about genders instantly which wasn’t what I wanted.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/005-31b1e5b1139b89832897e64612bdc465-9e5f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAAByklEQVQ4y2NgGLlAXcMCTsPYaki0GpoYQcPU1c0hbHVzRjV1cyaIweYYBiMsBamB6gHSalD9qAZjEQRqZkQxVN0Cq88wXYhwjZW6uoUn0EZ+oJggRMzcAahGB8pmBrK5gXJeQJoH5kJ1ZItQvKxh4QlkNwLpQqDhAlCXVwAxM0w90DJPoPxkIFbE6koNoICSmhnMQJBh/UDcCRS3B2KQ6yqhbF8g9gHyHYF0IJCOA7kWw1CYYcpqZvxAdoaEspGOnKpJEJA/EcifpaJuvg5INwJxhbK62Twgv0FRzTRXVd18C5DNCdKrghz+Frp2YNpQ21rE09jFpMopTLHNPUou3cZf2dfE1bPUMUTkaHQh/xTveOELcaU8Vnr21g4GjpnGOjYpIH1iSoaM////Rxj4P68NQveuZHqRVuf4JLXG+3Fqjf2r9Dqvb9nN1kC+8YOUatOnqTU6QNr1c1aT9qfMRssvWU02Z2NL2EB6byZW4EiU/DJwJtCFjNiUmOjYgMUneMUxX4ca1OIWiVCwOCAVTO+JyAPTd5IqwRgEriSUgem7yVVwMRA4EVOElQ03AEbfTa4Ea76bVAWhwexKNBpoeDIMQ/UC2aNgkAIAqweciDxyONIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/005-31b1e5b1139b89832897e64612bdc465-1a291.png 148w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-2bc4a.png 295w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fb8a0.png 590w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-526de.png 885w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fa2eb.png 1180w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-08f6a.png 1770w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-9e5f6.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;At this point I started thinking that the logo was just very bland. I blame the boring purple-black for that now, but I thought it was the typeface in the wordmark, so I went a bit wild.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-36f5d.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100.04037141703674%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABqUlEQVQ4y2NgGAWDF6hrWMBpIGZU1zBnUFc3h4qZM6hpmKOoI2AYVLG6BTY5RmRLQQaDLVQ3Z1RDcgSG69TgrrFgBxoiAaQFgJgbKsYKEgexYeogDjBH8pk5qqGq6uZMIFpTw1JPQ8OiH4jLgGxTqIGFWpqWGjC1mhoWKtqaliogtoOBI4OUsjGqYQqqYH0Mimqm/PKqpglAXA0UmwjE5UB2jbKa2XxFNbNWoHyJgpppNZDfChQvAGIvkD4jbRtGBlFlhIE+Jq5gOtjMg8PD2CUyxdrPPt7Kx9PNyLnA29g1y9XQKcLV0DnFxdApEYhzgK6K8DR2SQOyA2Fm5NgFIgz8X9QNoVvmM3/OarJ5lV7n9jGz0eJXTov9v9w2i/95bVr/y/pV/xd0qP7Pa7cA0uo/spvNvmQ1WX7NagIHFZCN6u3///+TneT+l09EFbidVAmmH6fWMFyIK2W4mVjBcAsodim+jOF6YjnDZSB9Ayh2JaEMLHYurgTMPhCZD9YDAnehZkA4yRDOHSB9N6mK4Q5Q8m5yFVgclQbKQWkIG6IeYmDVaOkwWAEARlyRyZQUvfIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-1a291.png 148w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-2bc4a.png 295w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fb8a0.png 590w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-526de.png 885w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fa2eb.png 1180w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-08f6a.png 1770w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-36f5d.png 2477w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Maybe too wild, so I toned it down. But still not the style I was looking for. Started coming back to the realisation that I liked the soft font style more.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-9e5f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABi0lEQVQ4y2NgGAWDE6hrWMBpFKxujiEHZqtboIjjNhCikFFdw5xRTd2cEclwRjAGi4HFmeBiQHk1kMVAjNVQUoEaukEgoIFwvhiQHQ7EMbpaVlJaGpZmQHZWkrUvk7ampSJQTAiIxYFikZoaFub6WlaiIH1ANoO5rh3CQCU1M0YQraxmJgtkr1BUM92ooGa6Ccg+DsTngXi5MoReBsQHlNXNdgHpJUB1W/W1rJmhehEGuhs5g2lrPXvhKAsv1zgrH18/E7cSDyOXCk9jl1ogHeVq6FzgZewSAaTLgXx3oJ4ob2PXMl55PRaoXoSB/ws6IHTrAub3mQ02HzIbnf4Xdhn+y22zBcqZ/i/rV/2f3675v6hbGcg3A7LVfua06PzNbQWHVbFDMMP/7TdRw/H/lR9kRUqKjR+m4LWEcjB9OaGM4UZiBcOtpAqGm4kVjCDx64nljCD+FSAbJHcVSIPEQWqBcmB95+NKgXoqEQbeTa6C0yB8JwlKJ1dCxSrhcmB2EoIP0wdSOwoGKQAAkhyYdomuB94AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-1a291.png 148w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-2bc4a.png 295w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fb8a0.png 590w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-526de.png 885w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fa2eb.png 1180w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-08f6a.png 1770w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-9e5f6.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I went searching for a new typeface that had the softer edges but also had a bit more presence. I found Fredoka One which fit that bill perfectly. At this point I knew I was happy with the typefaces, and that it must be the colours that were off.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-9e5f6.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABiElEQVQ4y2NgGAWDE/w3qobTCFwFoQ2rUOQw2IbVWAyEa6oCsRmBimGY4Z8h2GBGiDhUzrCKCUT/A6upAhsKotFcWUWR71DAX6gLga4RA7LD/xhWRX8zrJD6bVhpBuRnbdVLYfxlWKkIFBP6blghDhSLBKox/2pYIQrSB2QzvDYsQbalhhFKywLxiv9GtRuBeBOQfRyIzwPxcii9DIgPAPEuIF4CVLP1i2E5M1QvwsAbBnlg+plBsdAh/QzXvXppvhf0c0quG+RVXDPIqwPSUbcN8guuGORGAOkKIN/9pkF+NJBf/t+4hRWqF8nPqpoQWkmQWUDN0IZfzcCJQVXdkEFN2xYoZ8agoqTKoKqlyaCqpsygqmEGZKuxqunqMKjpWIC0LdWNZ2CQRA9IEfKSHDB8IcGW9h8hqKdhBaaNNKwZdDQsGbSAWFvDklEfKK6rYcUI4htA5UBiIGwI5MP0mWnYMGhqWCAMVIdyQLS6hjkYq4FpGN8CjNWgtLq6OZRvDtEH5Y+CQQoAwx6s4wuE/zUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-1a291.png 148w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-2bc4a.png 295w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fb8a0.png 590w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-526de.png 885w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fa2eb.png 1180w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-08f6a.png 1770w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-9e5f6.png 2478w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I felt like the previous purple-black colour was overpowering with the new thicker typeface. I brought it back to a playful pink colour, then moved the use of that purple-black down to the tagline. I feel like this hit the balance I was looking for.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Brand Name Generation - Habeats]]></title><description><![CDATA[I’ve been trying to come up with a name for my application, and I used a spider diagram to get a lot of words onto a page that I could mess…]]></description><link>https://www.williamipark.co.uk/brand-name-gen/</link><guid isPermaLink="false">https://www.williamipark.co.uk/brand-name-gen/</guid><pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been trying to come up with a name for my application, and I used a spider diagram to get a lot of words onto a page that I could mess with and combine mentally.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-13786.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 72.09653092006033%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQACBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHvAitRH//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAAMBAAAAAAAAAAAAAAAAAAAQIRH/2gAIAQEAAT8hhFr/AP/aAAwDAQACAAMAAAAQPN//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABExkVFhcf/aAAgBAQABPxBLYNR6GoBwajSvJbDE/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-f8fb9.jpeg&quot;
+        srcset=&quot;/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-e8976.jpeg 148w,
+/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-63df2.jpeg 295w,
+/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-f8fb9.jpeg 590w,
+/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-85e3d.jpeg 885w,
+/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-d1924.jpeg 1180w,
+/research-log/static/spider-dia-e836d7c582ebdcf3799449176e48915d-13786.jpeg 1326w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I’ve ended up with the name &lt;strong&gt;Habeats&lt;/strong&gt;. The reason I’ve chose this name is because a habit is repeating something over and over - repetition. With repetition you can get a &lt;strong&gt;beat&lt;/strong&gt;. I’m aware this connection is a bit of a stretch so I’ll be using the tagline “Add Rhythm To Your Life” to help build the connection.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Habeats&lt;/strong&gt; -
+&lt;em&gt;Add Rhythm To Your Life&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Typography]]></title><description><![CDATA[As previously mentioned in my moodboard post, I want the feel for the app to be soft and playful. I selected the Visby Round CF typeface…]]></description><link>https://www.williamipark.co.uk/typography/</link><guid isPermaLink="false">https://www.williamipark.co.uk/typography/</guid><pubDate>Wed, 07 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As previously mentioned in my moodboard post, I want the feel for the app to be soft and playful. I selected the Visby Round CF typeface because it achieves that well. It’s reasonably priced for commercial usage and it comes with a good variety of weights.&lt;/p&gt;
+&lt;p&gt;Type is one of the most common elements in most apps so I believe getting the feel that I wanted to achieve through the typeface is a huge win as it sets the tone for the rest of the application.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-e6fc4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 115.29110684580934%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAC4jAAAuIwF4pT92AAACnUlEQVQ4y52U63KbMBCF8/7PlGYmnUmbTNo07WTitLGNwQgkBOZiwGAu6SfUhF4m+VFGlpdFR7vn7Eon4zh2Xff0X88Jv9uvd2dn7z98vL68/HRxcXV19fn03fnp6XkYSr4ObG/XTsb4F7goiuvrL4vF95ubb7e3dw+LHxirpSNl9Ax5JTLf2mPXdn3bdce+r5u2PDRmNO2+rpMsT4t9UdVFWef7cpcXzC/bmchC6bvH9f1qs9qKR9e/XzkPa2+xdh8cL4rToqyyogTDLoDZbhiGGVzWB1YwmvbYtO2hbfFgVIem6/u3BCMFg6zqvKxUssuKfWmSrHglCKFwEbaYXvUuS7IiTnObueEcRPFGyNU2CCK9CaQXqvU22IgQA6evIhHpIErcQC5dwcyOs2AyTtZ+4IURW2xl5PihL/XSE+CRA/6A8U+KbO+XGzadObuBAlY3DVQPTVNNhGFu5qZFZz5RBWxMSO2regZTqreFeV2wpxEOaBDqBMJhnCCMincIYZ0MlaQ4jSfLMaBAdgY8DCMaWkqOCCEf6hgbYZCNQQkmRRRrmJeGuUD8X4IRx+oEebQBxvCVluQyaYYi+EUUG8G3Is33tscMZ9RmqSmMUVgSn1cXgNIML1AUIjBIRQoYeOZSkZhNm6qyxbTORI6SlMjMpMAukF/5Qsa7vh9+q7M2kcGTggXTp+PzYw+WNYZnYwZTKUrFOHa9NXjMJcHfMPDrzL8xrHM+GDZytEtdoRzfNCOFgZUm58D2bExj0XM+qU0EOV42HSNYOAlmuxq1PKptVKFV6bwQks7U58BsISj1HBmvWaQTc0ICieAsZRGv5mBlBWoRVqcZMWy32I40YJoESfmAl5rTcERmKdLM99d8i/15h70845s31r/PTxCPFVRv3DqWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typography&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-1a291.png 148w,
+/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-2bc4a.png 295w,
+/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-fb8a0.png 590w,
+/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-526de.png 885w,
+/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-fa2eb.png 1180w,
+/research-log/static/typo-74f6d60e7c2628e9da99510a3c0298d8-e6fc4.png 1563w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I’m using the minor third scale (measured with &lt;a href=&quot;https://type-scale.com&quot;&gt;type-scale&lt;/a&gt;) with the app as it minifies the amount of scale difference between each level of the hierarchy. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Moodboard]]></title><description><![CDATA[I’ve developed a moodboard indicative of the style I want to go towards for my app. I want my app to be playful and soft, without coming…]]></description><link>https://www.williamipark.co.uk/moodboard/</link><guid isPermaLink="false">https://www.williamipark.co.uk/moodboard/</guid><pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve developed a moodboard indicative of the style I want to go towards for my app.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-1606b.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 93.82239382239383%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAACXBIWXMAAAsSAAALEgHS3X78AAAErUlEQVQ4y02UaW9UZRSA56u/gF/hB+IXPxnBhAQ/yBYCiEYKKpEQqQQligrY1GiIrGrYQi1t0S7SsthAobTT0nba6TbtTDvTO/u9s3T25c4+ncczQ0y8ycnN+07O8z7nvGeuIZ3VSaTSlCsV1mNxyuUyk1YbyWQKdzrBRERFK2QpFXPo2Th6Jk42myTnGicyeINsaIVsRtbZBLqexJApFsjm81Q2NsiVitSfRY+nAXSkY4yFfSQrJYoF/RWwnpiMsW7uZrn9OAnnLLoc3NiXMOQLhYZdRSIaS1AoltioVPnvqZUqst54ZSh2dYusANW/e1i91krEOIaeT/8PmCtgd3oYM8/TdOJbfrxyG38ghMcXIFYv2x+QlmQol/JSWoyCABPJCJ6IhirhjwRkP05e9uu/GeypKLdsM0xKmXOmBazSv5wkZ3I6tVqNVDor9tUGUJfepXNpUmKo6ymxzpISWFJak9YTxLJRDEuJKF0eOxP6Go5SFlsCAo4kXluQGYtNgJlXpW9UyJdyzK0sSmKivsNgaJHvlH6ex1cYjCwxvG7F0KbMsuXJdQ5On+WDx3f58IaF7nMmbpy6z56jJ5maXaRarZJOJ9E0H/5lCz6vi3wiSbt/nAOWmzTb7nFC4it7L4aC+xapoTdRL23Hc24/yrEj+GxW5m12bnf/heL1Ngw7O3vZtecITZ99w/Ydh7jQ+iv31+c4artLm+s5rfYBjq90YSDtoaKOoCsmqrYJsotWKbNEVEYpqIXYKFcawC4B7tzdxEcff8mO3YdpablIqpTBlwkSi4dRoyr+dBCDElRxLVupLY0zFJX+pU3U/N2UXpoY880z4rDKuNS4ebuTrdv2s3PfMd7aupfTX7dSq5aplnTClhQxJUm1rGPwR0NoygKViQ4m51ZxLvSRsg2QmbMwPTvCsGUWSzjOwvwiHW3t9PU9oL2jh+FhY+PmC0WdrE8hHfCRl3+UwalHUcJmsF6FiWf4jUZmFpeoVZZIPXzA1PgoPRE3lItkNIWCjEi1UpBhL5DTMzJ/GYqRGXKxFXIyaoZZu5PR+WWMy06e21WG7W7MUu7CwwFemswYF6yYlh34VRW3U8GlOHArdjzONbz1cEm43fJ2ElS9GB6/nOHOkzEGOm8x+HMzp66cpemH03Ru24rx/X20Px3l3rMx3HLbPreC6vPgEYgmb7cAnY5VVK8A3c7G2vB0apa7o2Ymrp3B8v1BFi5/wed/tvPp1Sv0f9JE79MReo0m3D4fPo9LZtCN6vcSCmoEAyr2VRsegaWSccKhAIYnAmwfmWb82nnuX7rAo59OsP/6L7Ts2sLQ3ncbdr0jk3j8fklUCGh+1sNBNNWHVw5wiZXDvtI4KKCpYjhppk0M5y+egcNv0NH8HpvOHqdl8yb+eft1ul5M0CdAr6o1eqgoa5LsaSR7BRISq7pZfR0MaGIowDujM8xdPA8HNtN7+B1eO9lE86Fd9B49SJcY9gjUHwxJmUECgTogxOrqKmtra/LdTLK+HiYWixKPxzAMmy30iMGjoRGmu/7gxe+X+a3/MZ3GKfon58Vuggfj06ihcAOoCVDTtEaoat3SS1D23XLTiqLwL+5dFJ4HUyAMAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Moodboard&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-1a291.png 148w,
+/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-2bc4a.png 295w,
+/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-fb8a0.png 590w,
+/research-log/static/moodboard-ee90ea3b46cbafee5c8a05726c155440-1606b.png 777w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I want my app to be playful and soft, without coming across as childish. I want to use bright colours and a typeface that is easy to read, but has no harsh edges. I liked the scribble style of the image in the bottom right. I may like to use it for some UI elements, especially some of the icon parts.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pricing]]></title><description><![CDATA[I’ve been giving some thought into the pricing structure I want to use for my app. I’ve chosen that I’d like to make the app cost a small…]]></description><link>https://www.williamipark.co.uk/pricing/</link><guid isPermaLink="false">https://www.williamipark.co.uk/pricing/</guid><pubDate>Sat, 03 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been giving some thought into the pricing structure I want to use for my app. I’ve chosen that I’d like to make the app cost a small price of &lt;strong&gt;£0.99&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;A lot of the reason I’ve chose this price is because of how I personally use app stores, and from what I’ve read about them when searching for good apps to use myself. I do not mind paying a small amount of money for a refined app with a good experience and no advertisments. Also having to pay for an app has generally made me feel like the creator of that app has more confidence in what they’ve built, which has usually lead to a better experience. &lt;/p&gt;
+&lt;p&gt;Having it priced as such means I can give discounts at key moments, such as launch, to gain a user base. It means the product I’m delivering is something that I’m happy to have people installing on their phones without worrying advertisers are showing experience ruining content.&lt;/p&gt;
+&lt;p&gt;I could avoid all these things by making the app free, but I would like to continue supporting it in the future using the money earned.&lt;/p&gt;
+&lt;p&gt;I also considered making the app free with an in-app purchase to unlock a premium version which allows you to create more habits, but I think this goes against what I’m trying to achieve with my main gamification loop that I wrote about in the previous post.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Animation Style Experiment]]></title><description><![CDATA[I’ve been considering how I want my app to look. I love the idea of a soft-edged but soft “blobby” looking style, but in a minimal way. I…]]></description><link>https://www.williamipark.co.uk/animation-style/</link><guid isPermaLink="false">https://www.williamipark.co.uk/animation-style/</guid><pubDate>Thu, 01 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been considering how I want my app to look. I love the idea of a soft-edged but soft “blobby” looking style, but in a minimal way. I would like to enhance this style further with animation, so I gave a go at something using SVG filters and CSS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/research-log/blob-b9c944cdf31982cb7304ad556e84801e.gif&quot; alt=&quot;Blob&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Obviously, elements wouldn’t be dragged together but instead you can imagine items popping out of a button that all had this style. &lt;/p&gt;
+&lt;p&gt;One issue is I plan to make an app and I’m not sure how difficult or what technologies I would have available to me that would allow me to do something like this easily.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gamification]]></title><description><![CDATA[I’ve been researching gamification, and using what I already know about Octalysis from my time working at “Yomo”. I plan to use gamification…]]></description><link>https://www.williamipark.co.uk/gamification/</link><guid isPermaLink="false">https://www.williamipark.co.uk/gamification/</guid><pubDate>Tue, 30 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been researching gamification, and using what I already know about Octalysis from my time working at “Yomo”.&lt;/p&gt;
+&lt;p&gt;I plan to use gamification in my app to enhance the the feeling of progress and motivation. I also want to use it as a form of slowly building the habit of using the app by keeping goals managable.&lt;/p&gt;
+&lt;p&gt;In my research for habits I found that one of the reasons a lot of people quit is because they take on too much. For example, someone starts a diet and remove too many calories from their allowance in order to lose weight faster, making the process too difficult and it results in them quitting. This is obviously not something I want to happen when people are using my app.&lt;/p&gt;
+&lt;h2&gt;The Main Gamification Loop&lt;/h2&gt;
+&lt;p&gt;I’ve came up with the idea of a main gamification loop that I want the user to experience. I want to combine the idea of streaks, along with the idea of unlocking additional “habit slots” to drive investment into the app, as well as a gradual increase in usage.&lt;/p&gt;
+&lt;h3&gt;Terminology&lt;/h3&gt;
+&lt;p&gt;Let me explain what I mean by “streak” and “habit slot”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Streak:&lt;/strong&gt; The number of days in a row where &lt;strong&gt;all&lt;/strong&gt; habits have been completed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Habit Slot:&lt;/strong&gt; The number of habits the user is allowed to track in the app.&lt;/p&gt;
+&lt;h3&gt;The Loop&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;User completes a month worth of streaks.&lt;/li&gt;
+&lt;li&gt;User has invested time and value into the app.&lt;/li&gt;
+&lt;li&gt;User unlocks a new habit slot.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User has ability to increase usage of the app.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User will hopefully create new &lt;strong&gt;managable&lt;/strong&gt; habit to avoid losing existing value.&lt;/li&gt;
+&lt;li&gt;User should be finding the previously added habit(s) easier to maintain by this point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other Gamification&lt;/h2&gt;
+&lt;p&gt;I would like to include some other forms of gamification to the app that work to give joy. A feature I know will be required, will be cheat days. I don’t want people to lose their streaks, or feel bad about having to miss a day. Instead a cheat day feature will allow people to skip a day with “permission”. I’d like to limit the amount of cheat days given by allowing the user to earn them as a regular reward.&lt;/p&gt;
+&lt;p&gt;I’d also like to create a score system. The score would work off the streak but could also be increased by forfeiting cheat days. The score would be reset when a streak ends, which should add more value to a streak, and a good target to hit if you fail your previous streak.&lt;/p&gt;
+&lt;p&gt;I’d also like to include badges, or achievements so there is some in-app acknowledgement about common milestones.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Competition]]></title><description><![CDATA[There are a few other apps I have took a look at because either I’m aware that they’ll be direct competition, or information from people…]]></description><link>https://www.williamipark.co.uk/competition/</link><guid isPermaLink="false">https://www.williamipark.co.uk/competition/</guid><pubDate>Thu, 25 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;There are a few other apps I have took a look at because either I’m aware that they’ll be direct competition, or information from people have indicated they’ve solved some of their habit problems through certain apps.&lt;/p&gt;
+&lt;h2&gt;Habitica - Gamify your life&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-ab5af.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 77.70833333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsSAAALEgHS3X78AAABUklEQVQoz2NwVi0jGzFQWbOTSpmLWrmLermreoWrejkJmp1USt00KuwVi+3ki6ylC2xkC4EGEa1ZudRDu2pSw/ow65aajPklcbOAprioEW2zu1blrK6t92+9+PTh2671Z62k8nE5HlWzWpmjcomvYV1r0bIlU/f+////yrkHNnI4XY5uM1Cdo3JphG3roR2Xv375sWTaXkelEmdinO2gVAKyRK0s0LShp3pNWeKcZK9eP8NaoF+wuhyhGWhhgGkDUL+VdIGPQa25SJa7crGnYZ2lbJG9QpGtXCFOzUCDbWQKq9PmTWrc0Ji7eMn0vZ0ly/urVvXUrmvIW1KRPLe3eg1OzUDXAu2Mce6oTJ3bVbGqp2p1W8mK3PCp2cGTWwqXVafN76tZC0w8+PwMdDkwVh0Ui4EGAdOJvUKxA5gEigMZRIU2PNogbEgKwZpOGAYsVwEAs3834dNO09QAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Habitica&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-fb8a0.png&quot;
+        srcset=&quot;/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-1a291.png 148w,
+/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-2bc4a.png 295w,
+/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-fb8a0.png 590w,
+/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-526de.png 885w,
+/research-log/static/habitica-d1dfcc89a9d36173dd7f87fdf26bb40e-ab5af.png 960w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Habitica aims to help you track the progress of your habits, and motivate you to improve your routine by using gamification as its main weapon. It tries its best to stray from being a “task management program” by disguising itself as a role-playing game.&lt;/p&gt;
+&lt;h3&gt;Positives:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A completely new experience to tracking habits.&lt;/li&gt;
+&lt;li&gt;Detailed gamified experience.&lt;/li&gt;
+&lt;li&gt;Naturally attracts gamer audience looking for solution to habit tracking.&lt;/li&gt;
+&lt;li&gt;Always free.&lt;/li&gt;
+&lt;li&gt;Has a significant amount of downloads in both Apple and Play stores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Negatives:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Looming subscription model for additional in-app rewards.&lt;/li&gt;
+&lt;li&gt;Gamification can be too much.&lt;/li&gt;
+&lt;li&gt;More time required to maintain using it.&lt;/li&gt;
+&lt;li&gt;Some reviews mentioning it’s buggy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verdict:&lt;/h3&gt;
+&lt;p&gt;I’ve used this app myself in the past and I found that I got bored of the game, before I got bored of the habit tracking. The game is really the bulk of the experience with this app. While I do want to incorporate gamification into my app, I don’t want it to go anywhere near this extent. I believe habit tracking is something people don’t want to spend any more than a few seconds a day doing, otherwise you also run into an issue of having to motivate a user to form a habit of opening your habit tracker. &lt;/p&gt;
+&lt;p&gt;The subscription model is not a nice fit in my opinion, as it may make users feel like they’re not getting as much as they could be for their hard work. Not great when you’re looking to motivate.&lt;/p&gt;
+&lt;p&gt;It has gained a lot of success in being a wildly different solution to the problem, as this likely makes it attractive to media. (After I typed this, I checked the website again for a “featured on” section, and unsurprisingly, there is one).&lt;/p&gt;
+&lt;h2&gt;Habit Bull&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/research-log/static/habit-bull-038022db14d0639b02c335faab2d15cd-6d3e5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 214px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 98.13084112149534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAC9ElEQVQ4y6WU2UsbURTG80/56Iu4i/u+4QL6JPgi4oKKvrmCSJ8sphqVPohKMdq61g1EiEpDMpMZodY1bjXGSMDG+XrOTSYZbajQDhxO7uTO735nuyaEHu35Gf/zaJomvEksAgGx8B8e4tJsxllfH067u3ESxfT3pz09uBgagmd1Nfw9Q026Mu/WFlxFRXCmp8OZlQXpDeM9zsxMONPShADt6SmiMOD14rCmBlJuLlxlZXAVF8NVWgpXSUnQG01/R17h37SfoXcLCxGg7+AAcl5eEEQb1OpquAoLIfOaVIv3BpPpP97nqKwUUFZ61tsbAd5vbkLKyQmeXlCA05ERSARV+ENdlW60lrKzcTI4CGt9PXYodJUiO+7qigA9GxsCyIpUsvPlZVirqmDnd/Sxk41UiPxRJOxvpqbwpb0dYwkJsNH6jIBaWCED6RROtHtgAK65ObyLiYGVFN7OzIj/b6an4d3dxVFrK+zx8ThpacH3tTWYk5IwmZwMuaPDEDID6WRnRgbuZmdxIUmwDQ/j3u3+s9+oKzwE4n0P5+f4SELMdMASHYDXCrkwrEDz+yMA6jGj8aOPgETQsZQUjJLKpebmV0AuCiVczs+HQgW5pbADPl+4YfVJYIVXDgcWGxsxRqFOUG4/UB6jA0OV5LZQysvxsLcXhujAX6R+qakpCKMUTVLe/w4MNTVX9cFmC4f9rIdLfq6uDqOJiQL2tkK9eamhlYoKMav683h9jc8NDbCkpgrQOI1pVKB3ezs4diGgHJoOLpJMje5VVVGIr52deB8bK5QJGIccAi5TMcNAv6KIYrxWKNbkv1GRPtXWwkIQBjCIjaGT1PTmuDhs9/dHgJRxHLe1wUFDHm3UVILuUEomWBkBBZQ9rS30DefTvb8fBOrX19PVFX6QbM6lMDpZGF9T5Hled0iRhcLjEBnCxo2tzs+Hu8FkvK3ZP9rt8Kys4G5x8YX9JLsnO6ZrSrZaoZAdra/Dd3n5oldNxob95+vf0Ke/AQdY1c+Rz6gAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Habit Bull&quot;
+        title=&quot;&quot;
+        src=&quot;/research-log/static/habit-bull-038022db14d0639b02c335faab2d15cd-6d3e5.png&quot;
+        srcset=&quot;/research-log/static/habit-bull-038022db14d0639b02c335faab2d15cd-d21b7.png 148w,
+/research-log/static/habit-bull-038022db14d0639b02c335faab2d15cd-6d3e5.png 214w&quot;
+        sizes=&quot;(max-width: 214px) 100vw, 214px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Habit bull is a fully featured habit tracker which aims to be as flexible as possible when it comes to breaking bad habits and building good habits.&lt;/p&gt;
+&lt;h3&gt;Positives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Loads of features.&lt;/li&gt;
+&lt;li&gt;Straight to the point.&lt;/li&gt;
+&lt;li&gt;Well rated, lots of downloads.&lt;/li&gt;
+&lt;li&gt;Aimed at your average person.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Negatives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Very bland UI.&lt;/li&gt;
+&lt;li&gt;Maybe too many features (Built in motivational images?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verdict:&lt;/h3&gt;
+&lt;p&gt;I’m not going to lie, this application is going to be the toughest competition I’ll go against. It has a lot going for it and the amount of features is intimidating. The only real weakness I see to the application is that it doesn’t provide much of an experience which makes me think could make the app less attractive to be launched daily.&lt;/p&gt;
+&lt;p&gt;In a way this app lets you set up your habit tracking to be very specific. There’s a lot of flexibility. This description gives a good example:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Very flexible goals like: number of times per day/week/month, only on certain days of the week etc. For example: 30 push ups every Mon-Fri, go to the gym 2 times per week, or even every 2 days&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maybe this is a weakness in that it’s too much? Without making it seem like I think like there’s no use to this kind of flexability, personally I just want to ask myself “have I succeeded x habit today? (yes / no)” and be done.&lt;/p&gt;
+&lt;h2&gt;Other applications&lt;/h2&gt;
+&lt;p&gt;I’ve done some lighter research in applications like “My Fitness Pal” and “Fitbit”, and while I will compete with them it’s hard to take a lot away from these applications. A lot of them allow you to track your stats far better, but in a way I believe this is beyond the scope of the problem I’m trying to solve. I think there’s enough room for my app idea to survive alongside these applications.&lt;/p&gt;
+&lt;p&gt;One interesting thing to consider is, however, some of these applications allow you to integrate with them. Perhaps it’s something I’d want to look at in the longer term.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[User Personas]]></title><description><![CDATA[I’ve developed a couple of user personas. These are people who I expect would enjoy an app that lets them build good habits and get rid of…]]></description><link>https://www.williamipark.co.uk/user-personas/</link><guid isPermaLink="false">https://www.williamipark.co.uk/user-personas/</guid><pubDate>Thu, 18 Oct 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;I’ve developed a couple of user personas. These are people who I expect would enjoy an app that lets them build good habits and get rid of bad ones.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -72,7 +1885,12 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[User Surveys Launched]]></title><description><![CDATA[Today I launched a couple of online surveys in order to learn a few things about people habits, and their interest in the app. I asked about…]]></description><link>https://www.williamipark.co.uk/user-surveys/</link><guid isPermaLink="false">https://www.williamipark.co.uk/user-surveys/</guid><pubDate>Sun, 07 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I launched a couple of online surveys in order to learn a few things about people habits, and their interest in the app. I asked about peoples habits to see where people they struggle. This will be helpful if I decide to narrow the focus of the application. I had around 100 participents in total.&lt;/p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[User Research]]></title><description><![CDATA[I’ve been digging into the data I got from my user surveys and also taking into account some information I’ve gathered about chatting to…]]></description><link>https://www.williamipark.co.uk/user-research/</link><guid isPermaLink="false">https://www.williamipark.co.uk/user-research/</guid><pubDate>Mon, 15 Oct 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been digging into the data I got from my user surveys and also taking into account some information I’ve gathered about chatting to people about this project.&lt;/p&gt;
+&lt;p&gt;I feel like most people I’ve talked to welcome the idea of an app to track your habits. During the chat people always mention that they have something they want to improve on in their life, or that it would be useful for them. These people have mostly been young adults aged around 25, but I’ve talked to people who are interested in the idea, who are as young as 19.&lt;/p&gt;
+&lt;p&gt;When talking to them the biggest concern for them, when they try to attempt to improve their routine without aid is that they lose motivation. One person said that this was because there’s no immediate reward, and a another said that it was because they find it hard to see any progress. This is great news, because these were the problems I initally seen myself, and these are the problems I’ll want to solve with the app.&lt;/p&gt;
+&lt;p&gt;Other people seen habits as a bad thing initially, and thought about issues like biting nails, or even smoking. When this was the case there was very different reasoning towards how a user would improve their routine. This was often because (with smoking being the most common bad habit) they were held back by addiction. In cases like nail biting they didn’t even realize they were doing it, which makes for a hard problem to solve.&lt;/p&gt;
+&lt;p&gt;While I do think my app could help to some extent by providing motivation to get out of a bad habit, or showing progress, I don’t want to focus on bad habits. Problems like addiction would, I believe, require a more focused solution aimed towards these issues.&lt;/p&gt;
+&lt;p&gt;Some people mentioned that they have found success using other apps such as “My Fitness Pal” which is geared towards weight loss and healthy eating - one of the most common “good habits” brought up. Because of this I need to consider compitition in areas like this too. One other person mentioned their fitbit tracks some of the stuff they would be interested in using this app for automatically, such as sleep habits.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[User Surveys Launched]]></title><description><![CDATA[Today I launched a couple of online surveys in order to learn a few things about people habits, and their interest in the app. I asked about…]]></description><link>https://www.williamipark.co.uk/user-surveys/</link><guid isPermaLink="false">https://www.williamipark.co.uk/user-surveys/</guid><pubDate>Sun, 07 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I launched a couple of online surveys in order to learn a few things about people habits, and their interest in the app. I asked about peoples habits to see where people they struggle. This will be helpful if I decide to narrow the focus of the application. I had around 100 participents in total.&lt;/p&gt;
 &lt;p&gt;In this post, I’m going to talk about each survey, what I learned from the initial results, and what I could have done better.&lt;/p&gt;
 &lt;h2&gt;Small-scale survey shared via social media&lt;/h2&gt;
 &lt;p&gt;I launched a survey through a couple of my social media channels and also on Reddit to gather information.&lt;/p&gt;
@@ -81,9 +1899,10 @@
 &lt;p&gt;One particularly interesting reply to the question about if they would use the app was:&lt;/p&gt;
 &lt;p&gt;“Depends. Normally I have trouble because using a habit tracker requires making another habit: using it.”&lt;/p&gt;
 &lt;p&gt;I hope this won’t be too much of an issue, as the research I’m doing to help hook people into keeping a habit by using the app should also apply to hook people into using the app as a habit. However, it makes researching this all the more important.&lt;/p&gt;
+&lt;p&gt;I’m not going to share this survey as I said in the survey that answers will not be shared, in hope for more truthful information.&lt;/p&gt;
 &lt;h2&gt;Large-scale paid “worker” survey&lt;/h2&gt;
-&lt;p&gt;I used one of Amazon’s services called mTurk to “purchase” survey results. For only a few pounds I was able to get 76 participents to do the survey. &lt;/p&gt;
-&lt;p&gt;Answers here were generally low-effort and only few went into detail. However, I do have more data here and was able to find some trends.&lt;/p&gt;
+&lt;p&gt;I used one of Amazon’s services called mTurk to “purchase” survey results. For only a few pounds I was able to get 76 participents to do the survey. The reason I went for this option was because I wanted to see if anonymous responses would show different trends. &lt;/p&gt;
+&lt;p&gt;Answers here however were generally low-effort and only few went into detail. However, when they did there was sometimes more serious information to be found.&lt;/p&gt;
 &lt;p&gt;When asked what their positive habits were, people usually mentioned one of these 3 things:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Excercise&lt;/li&gt;
@@ -99,9 +1918,9 @@
 &lt;li&gt;Gambling&lt;/li&gt;
 &lt;li&gt;Anger issues&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;There’s a couple of points from the negative data that I want to touch on. I hadn’t considered that I may be tackling the realm of addiction with this app. This is an area I should research in addition to habits. Secondly, I now realise that I may want to focus on breaking bad habits, rather than building good ones.&lt;/p&gt;
+&lt;p&gt;There’s a couple of points from the negative data that I want to touch on. I hadn’t considered that I may be tackling the realm of addiction with this app. This is an area I should research in addition to habits, if it makes sense to do so.&lt;/p&gt;
 &lt;p&gt;When I broke the data to examine what age range I should aim for (by comparing age ranges, to app interest) I found that the range 25-34 wins by a long shot, with 41.67% of people saying they would try it. The next highest range was 18-24 at 19.44%. This lines up with what I generally expected.&lt;/p&gt;
-&lt;p&gt;If I were to do this again I would focus on smaller questions that are picked up by comparision and analysis tools to help identify more patterns.&lt;/p&gt;
+&lt;p&gt;If I were to do this again I would focus on “yes/no” that are picked up by comparision and analysis tools to help identify more patterns, as the low detail responses don’t give as much insight as I believe this approach would.&lt;/p&gt;
 &lt;p&gt;You can view the results from the large scale survey here:
 &lt;a href=&quot;https://www.surveymonkey.com/results/SM-KP2QZ7R6L/&quot;&gt;https://www.surveymonkey.com/results/SM-KP2QZ7R6L/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Research Plan]]></title><description><![CDATA[This is an outline for areas I plan to research, and how I plan to do the research. Gamification Gamification will be an important area to…]]></description><link>https://www.williamipark.co.uk/research-plan/</link><guid isPermaLink="false">https://www.williamipark.co.uk/research-plan/</guid><pubDate>Fri, 05 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is an outline for areas I plan to research, and how I plan to do the research.&lt;/p&gt;
 &lt;h2&gt;Gamification&lt;/h2&gt;

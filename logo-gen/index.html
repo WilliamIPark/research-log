@@ -1,0 +1,317 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style data-href="/research-log/0.e552e59b5b0f29f0cac3.css">@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:100;src:local("Montserrat Thin "),local("Montserrat-Thin"),url(/research-log/static/montserrat-latin-100-50d279861fb3cbfed809eae6ed8b9ac9.woff2) format("woff2"),url(/research-log/static/montserrat-latin-100-5e334eff013f12fbb8ed72c2a253f119.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:100;src:local("Montserrat Thin italic"),local("Montserrat-Thinitalic"),url(/research-log/static/montserrat-latin-100italic-8c0705336558194799a8729840d7ed9d.woff2) format("woff2"),url(/research-log/static/montserrat-latin-100italic-03e19243272affe738654a157625ec26.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:200;src:local("Montserrat Extra Light "),local("Montserrat-Extra Light"),url(/research-log/static/montserrat-latin-200-4343d3d91a9446226e7a8bbb024111ad.woff2) format("woff2"),url(/research-log/static/montserrat-latin-200-f2022ecd65a0703ec3edcb7641709a75.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:200;src:local("Montserrat Extra Light italic"),local("Montserrat-Extra Lightitalic"),url(/research-log/static/montserrat-latin-200italic-116c4c4b14ef76b0555da09854512022.woff2) format("woff2"),url(/research-log/static/montserrat-latin-200italic-89614a6008fc5c60739012463d0ee7e6.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:300;src:local("Montserrat Light "),local("Montserrat-Light"),url(/research-log/static/montserrat-latin-300-d2ad295b60682a6537c358e06ea80c61.woff2) format("woff2"),url(/research-log/static/montserrat-latin-300-3a371ee0d175f5c2b15ce1d6b981dc4e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:300;src:local("Montserrat Light italic"),local("Montserrat-Lightitalic"),url(/research-log/static/montserrat-latin-300italic-f6b6bf2431003f8142e800f9df157989.woff2) format("woff2"),url(/research-log/static/montserrat-latin-300italic-16521668f5f238098329cdd7d27c391e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:400;src:local("Montserrat Regular "),local("Montserrat-Regular"),url(/research-log/static/montserrat-latin-400-240a84447b78da0920fcb07e378f2c5f.woff2) format("woff2"),url(/research-log/static/montserrat-latin-400-b20cc131034316b1c85d0498fb9ed5c5.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:400;src:local("Montserrat Regular italic"),local("Montserrat-Regularitalic"),url(/research-log/static/montserrat-latin-400italic-86172bb829de6be08b92512096b6aca6.woff2) format("woff2"),url(/research-log/static/montserrat-latin-400italic-9405e78785a55cf0e4ea7669d4616ea9.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:500;src:local("Montserrat Medium "),local("Montserrat-Medium"),url(/research-log/static/montserrat-latin-500-fb8d6b71dbe8d9294be43082936f649e.woff2) format("woff2"),url(/research-log/static/montserrat-latin-500-50825d47af7ae47e055018eb689c6c99.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:500;src:local("Montserrat Medium italic"),local("Montserrat-Mediumitalic"),url(/research-log/static/montserrat-latin-500italic-c0a555a4f8e997385a3eebbd4da0b9ee.woff2) format("woff2"),url(/research-log/static/montserrat-latin-500italic-635de59c4be86285b1f70068c95b9816.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:600;src:local("Montserrat SemiBold "),local("Montserrat-SemiBold"),url(/research-log/static/montserrat-latin-600-d5615136a08cfee70deb4be1ee1651df.woff2) format("woff2"),url(/research-log/static/montserrat-latin-600-f300da4fb4fe00e23915f62b2c643681.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:600;src:local("Montserrat SemiBold italic"),local("Montserrat-SemiBolditalic"),url(/research-log/static/montserrat-latin-600italic-10f29d139edacde92df63374c5672568.woff2) format("woff2"),url(/research-log/static/montserrat-latin-600italic-2bc37d86a4ba12ce526c4af904a9946e.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:700;src:local("Montserrat Bold "),local("Montserrat-Bold"),url(/research-log/static/montserrat-latin-700-7d77e1f03eefc452dab14d7f89080083.woff2) format("woff2"),url(/research-log/static/montserrat-latin-700-81826529772e52f0f14a4c73c2f2c7f1.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:700;src:local("Montserrat Bold italic"),local("Montserrat-Bolditalic"),url(/research-log/static/montserrat-latin-700italic-1dd2b53f1567a29e0505de9b27c4352c.woff2) format("woff2"),url(/research-log/static/montserrat-latin-700italic-c162d257f5e9f9b108a96a604cfb2132.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:800;src:local("Montserrat ExtraBold "),local("Montserrat-ExtraBold"),url(/research-log/static/montserrat-latin-800-d4e7bf86bbd8e5f43ca73fa831218648.woff2) format("woff2"),url(/research-log/static/montserrat-latin-800-895aadbff357be35ac8dd107c7975ee7.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:800;src:local("Montserrat ExtraBold italic"),local("Montserrat-ExtraBolditalic"),url(/research-log/static/montserrat-latin-800italic-fc0cbe442f7b3733c91e982e825c4daa.woff2) format("woff2"),url(/research-log/static/montserrat-latin-800italic-b3362875067300abedb7a8fb97903258.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:normal;font-weight:900;src:local("Montserrat Black "),local("Montserrat-Black"),url(/research-log/static/montserrat-latin-900-c8bdd772c0d1347720ff7e3fb72719f3.woff2) format("woff2"),url(/research-log/static/montserrat-latin-900-1b99ef78e627dd9bbd0ca4b5c0789547.woff) format("woff")}@font-face{font-display:swap;font-family:Montserrat;font-style:italic;font-weight:900;src:local("Montserrat Black italic"),local("Montserrat-Blackitalic"),url(/research-log/static/montserrat-latin-900italic-cb72c1f90f66c124fb897a75bec64c78.woff2) format("woff2"),url(/research-log/static/montserrat-latin-900italic-b78bb9f8ecec6c5a924c873f1818095f.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:300;src:local("Merriweather Light "),local("Merriweather-Light"),url(/research-log/static/merriweather-latin-300-f015f1e9a46a3b9db4fd64564dacece4.woff2) format("woff2"),url(/research-log/static/merriweather-latin-300-92dfe81b725c342d31d962da975c07a6.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:300;src:local("Merriweather Light italic"),local("Merriweather-Lightitalic"),url(/research-log/static/merriweather-latin-300italic-7fd86b32accf2df4403d1d4fa3a81502.woff2) format("woff2"),url(/research-log/static/merriweather-latin-300italic-878b76f59d5ba58dd1652dc8d2a0f4f9.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:400;src:local("Merriweather Regular "),local("Merriweather-Regular"),url(/research-log/static/merriweather-latin-400-12dbf4c00ae43698f278b099e4b0ec9e.woff2) format("woff2"),url(/research-log/static/merriweather-latin-400-1fffad22b085a877995812dbf1d9ac08.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:400;src:local("Merriweather Regular italic"),local("Merriweather-Regularitalic"),url(/research-log/static/merriweather-latin-400italic-1e0d3e8121d88969bfb153c8f174b758.woff2) format("woff2"),url(/research-log/static/merriweather-latin-400italic-de18d4c4e8e808a7248a185f866ff094.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:700;src:local("Merriweather Bold "),local("Merriweather-Bold"),url(/research-log/static/merriweather-latin-700-dc8fec81a125fc63856587e6683da73b.woff2) format("woff2"),url(/research-log/static/merriweather-latin-700-d7d2ed8e58f303392cc3fc00ba3a9186.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:700;src:local("Merriweather Bold italic"),local("Merriweather-Bolditalic"),url(/research-log/static/merriweather-latin-700italic-b7b7e5da4d7be8c12bd5a6c809edc8fc.woff2) format("woff2"),url(/research-log/static/merriweather-latin-700italic-6210a5fc1c54ca85a5d82aa85d7a9b5c.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:normal;font-weight:900;src:local("Merriweather Black "),local("Merriweather-Black"),url(/research-log/static/merriweather-latin-900-43f870d543dd89fbeb66d417c0d97276.woff2) format("woff2"),url(/research-log/static/merriweather-latin-900-8f3806df74937c7b8b53f24ae1e725d1.woff) format("woff")}@font-face{font-display:swap;font-family:Merriweather;font-style:italic;font-weight:900;src:local("Merriweather Black italic"),local("Merriweather-Blackitalic"),url(/research-log/static/merriweather-latin-900italic-168c1ab28ed0e4e7d654334def288bc1.woff2) format("woff2"),url(/research-log/static/merriweather-latin-900italic-ae7778f01871e35ee142ef207b313b34.woff) format("woff")}</style><meta name="generator" content="Gatsby 2.0.0"/><link rel="alternate" type="application/rss+xml" href="/research-log/rss.xml"/><link rel="shortcut icon" href="/research-log/icons/icon-48x48.png"/><link rel="manifest" href="/research-log/manifest.webmanifest"/><meta name="theme-color" content="#663399"/><title data-react-helmet="true">Logo Generation | Final Year Research Log</title><meta data-react-helmet="true" name="description" content="I started the process of building a logo for the project. I’m going to take you through the process of each iteration and what I was…"/><style id="typography.js">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block}audio:not([controls]){display:none;height:0}progress{vertical-align:baseline}[hidden],template{display:none}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}svg:not(:root){overflow:hidden}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}button,input,optgroup,select,textarea{font:inherit;margin:0}optgroup{font-weight:700}button,input{overflow:visible}button,select{text-transform:none}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}textarea{overflow:auto}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-input-placeholder{color:inherit;opacity:.54}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}html{font:100%/1.5625 'Source Sans Pro',sans-serif;box-sizing:border-box;overflow-y:scroll;}*{box-sizing:inherit;}*:before{box-sizing:inherit;}*:after{box-sizing:inherit;}body{color:hsla(0,0%,0%,0.8);font-family:'Source Sans Pro',sans-serif;font-weight:400;word-wrap:break-word;font-kerning:normal;-moz-font-feature-settings:"kern", "liga", "clig", "calt";-ms-font-feature-settings:"kern", "liga", "clig", "calt";-webkit-font-feature-settings:"kern", "liga", "clig", "calt";font-feature-settings:"kern", "liga", "clig", "calt";}img{max-width:100%;margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}h1{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:2rem;line-height:1.1;}h2{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:1.51572rem;line-height:1.1;}h3{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:1.31951rem;line-height:1.1;}h4{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:1rem;line-height:1.1;}h5{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:0.87055rem;line-height:1.1;}h6{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;color:hsla(0,0%,0%,1);font-family:'Source Serif Pro',sans-serif;font-weight:600;text-rendering:optimizeLegibility;font-size:0.81225rem;line-height:1.1;}hgroup{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}ul{margin-left:1.5625rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;list-style-position:outside;list-style-image:none;}ol{margin-left:1.5625rem;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;list-style-position:outside;list-style-image:none;}dl{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}dd{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}p{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}figure{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}pre{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;font-size:0.85rem;line-height:1.5625rem;}table{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;font-size:1rem;line-height:1.5625rem;border-collapse:collapse;width:100%;}fieldset{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}blockquote{margin-left:0;margin-right:1.5625rem;margin-top:0;padding-bottom:0;padding-left:1.75781rem;padding-right:0;padding-top:0;margin-bottom:1.5625rem;font-size:1.1487rem;line-height:1.5625rem;color:hsla(0,0%,0%,0.59);border-left:0.58594rem solid;border-color:#fcea0e;}form{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}noscript{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}iframe{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}hr{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:calc(1.5625rem - 1px);background:hsla(0,0%,0%,0.2);border:none;height:1px;}address{margin-left:0;margin-right:0;margin-top:0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;margin-bottom:1.5625rem;}b{font-weight:700;}strong{font-weight:700;}dt{font-weight:700;}th{font-weight:700;}li{margin-bottom:calc(1.5625rem / 2);}ol li{padding-left:0;}ul li{padding-left:0;}li > ol{margin-left:1.5625rem;margin-bottom:calc(1.5625rem / 2);margin-top:calc(1.5625rem / 2);}li > ul{margin-left:1.5625rem;margin-bottom:calc(1.5625rem / 2);margin-top:calc(1.5625rem / 2);}blockquote *:last-child{margin-bottom:0;}li *:last-child{margin-bottom:0;}p *:last-child{margin-bottom:0;}li > p{margin-bottom:calc(1.5625rem / 2);}code{font-size:0.85rem;line-height:1.5625rem;}kbd{font-size:0.85rem;line-height:1.5625rem;}samp{font-size:0.85rem;line-height:1.5625rem;}abbr{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}acronym{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;}abbr[title]{border-bottom:1px dotted hsla(0,0%,0%,0.5);cursor:help;text-decoration:none;}thead{text-align:left;}td,th{text-align:left;border-bottom:1px solid hsla(0,0%,0%,0.12);font-feature-settings:"tnum";-moz-font-feature-settings:"tnum";-ms-font-feature-settings:"tnum";-webkit-font-feature-settings:"tnum";padding-left:1.04167rem;padding-right:1.04167rem;padding-top:0.78125rem;padding-bottom:calc(0.78125rem - 1px);}th:first-child,td:first-child{padding-left:0;}th:last-child,td:last-child{padding-right:0;}a{color:#fb251b;text-decoration:none;}a:hover,a:active{color:hsla(0,0%,0%,0.8);}h1,h2,h3,h4,h5,h6{margin-top:3.125rem;}blockquote > :last-child{margin-bottom:0;}blockquote cite{font-size:1rem;line-height:1.5625rem;color:hsla(0,0%,0%,0.8);font-weight:400;}blockquote cite:before{content:"— ";}@media only screen and (max-width:480px){blockquote{margin-left:-1.17188rem;margin-right:0;border-left:0.29297rem solid;border-color:#fcea0e;padding-left:0.87891rem;}}</style><link href="//fonts.googleapis.com/css?family=Source+Serif+Pro:600|Source+Sans+Pro:400,400i,700" rel="stylesheet" type="text/css"/><link as="script" rel="preload" href="/research-log/0-1af89739fa31018b87da.js"/><link as="script" rel="preload" href="/research-log/component---src-templates-blog-post-js-fc30f1ccd32028784a9c.js"/><link as="script" rel="preload" href="/research-log/app-8ad82c0ba09d8be45df4.js"/><link as="script" rel="preload" href="/research-log/webpack-runtime-9dc30b4a28086e07e5b0.js"/><link rel="preload" href="/research-log/static/d/259/path---logo-gen-708-94c-qfoVKajkRKmJWlCoPZ2rgizWs4.json" as="fetch" crossOrigin="use-credentials"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" role="group"><div style="margin-left:auto;margin-right:auto;max-width:37.5rem;padding:2.34375rem 1.17188rem"><h3 style="font-family:Montserrat, sans-serif;margin-top:0;margin-bottom:-1.5625rem"><a style="box-shadow:none;text-decoration:none;color:inherit" href="/research-log/">Habeats Scrapbook</a></h3><h1>Logo Generation</h1><p style="font-size:0.87055rem;line-height:1.5625rem;display:block;margin-bottom:1.5625rem;margin-top:-1.5625rem">November 16, 2018</p><div><p>I started the process of building a logo for the project. I’m going to take you through the process of each iteration and what I was thinking at each point.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-36f5d.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABR0lEQVQ4y73UMUvDQBQH8J6CQhtRLIUMHQMhJjRgsrkpCNkUIahLSYI2g5YMXTqok/g5xFE/YIvS5/+ON5wltIZEAz8uebn3z10IabX++RDaWKZWaK3mE7iCQ7iGIzaAUzgGr0rggENTGMEFZJDADZzBZZUdbMMOj3tg8Pk+bMEu31+5sk3NRsnTRUlN7xF/+nkcwD2/r7wi2TOGUA+8A6rpWQ8ccXEOX5IQ4seo15dqc+59LAuUExYVfXLvkx6Y64H9fp8syyLDMMh1Xep2u9TpdNS1PDdNk9rtNq0N5K0soiiiNE0pz3OaTqc0HA6pKApKkoQmkwllWUZxHKtA9KxfYa/XI9u2yfM8CoKAfN9X12EYqhU7jqPu/XrLTbzDWy7OeIIit7MKz5tx74MeOG7gO3zRA+Xv6B1e4a0i2fMB5438QJePb/BVwnQvyOw4AAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fb8a0.png"
+        srcset="/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-1a291.png 148w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-2bc4a.png 295w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fb8a0.png 590w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-526de.png 885w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-fa2eb.png 1180w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-08f6a.png 1770w,
+/research-log/static/001-ac033c2d4d95d65c40b42569b7249045-36f5d.png 2477w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>This iteration was just to get something down on the page to work with. You can see that I already have the soft font in here. I had the dotted underline pattern to indicate “beats” to try convey the tagline without using the tagline. No colours or anything, just something straight to the page.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-9e5f6.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABIElEQVQ4y+2SwUoDMRRFJwjF7rQgQhd13Q5aBTdWqYW2NLOpOxf6B0WRbipCmSz7D35j8g89mWYyqVNh6KqLBg5JbpL7XpIXRcd2mC1RxvcZqYlkqv08X5OpqWaYb0ysSWpNrJkWmAg04cyFC5DpaCLXNmf/BEuqRq90ZZ+huSDiLdyRYQtiMhlJpU/RLlk/gybEcIPWCJ8nNBTuna7gCxTM2Lhi7VsqM+fqv4w/CbJA/2H+wZ4l1MJ/2M5QmXPowhO8wjtrb5iMGU8xurdz3nxA1hO0F6iXDG3Krj8hm2cOjdjwQBZDzPqMY7iGNth5Bx6hZz+vZBia7ld2encdyrwO1VaZ+NrMdF9ahVZKqLiycQWsC+OgwP9j55WP7XDaGqL+4qpu7aWuAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fb8a0.png"
+        srcset="/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-1a291.png 148w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-2bc4a.png 295w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fb8a0.png 590w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-526de.png 885w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-fa2eb.png 1180w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-08f6a.png 1770w,
+/research-log/static/002-5bca0394ad7dd46e6940f72a9010e0a4-9e5f6.png 2478w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>Experimenting with colour now, because I thought it was going to be important to visualise what I wanted from the logo, and it also worked way nicer with the type. I’ve got the tagline in now because the dots weren’t doing it for me.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-36f5d.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100.04037141703674%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABmUlEQVQ4y2NgGAWDE7z17ITTb4D4rWcHkO4A85HlYGwiDOwA02/ABnZADe1kBGMPMA3jI8Sh+I1HB4qjMFxJFfAaahjQZaKvPDsNX3l2Gb7w6pJ76dmlA+S7PPTp5QDyxZ95dQsAaSmgem2gGr3nXt1ClwMmM/x3amC449uPMPCDezsjiH7v0SH/yb0t/7N7W/1Xt9YsILsdyC7/6N5eAMSzgfxcIC4Dqq8EiucA6dpvbq1sIL1f3NsQBp4PnAKmb/tNENwSMV8fiG0OhcwMPxU0LfpY8Iyo00HTXIFs/z1hc0zOBU6NOhc4xQEo734pYLL/xYDJnCC9ZwOnIgw0qL0MYXQ/Y3auOO1gV3nW1a7qrKVt1Tlnx8ozdoa1l7Stqs/r2lee1QJiO4vqC1pAddZANdYMy/6DfSfQdh8tIP//Jz8S0PWGFB8F0+HFRxgCS44x+JceB9NhQH5wyVEwG0QHAOnIosNAdYfB/Jzc3QzeZSfAen2BeuDAp+w4nPYF4xMQDFTkUwplg8RLkeSg2AdqEIqBo2BwAQDoEd060uecBAAAAABJRU5ErkJggg=='); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fb8a0.png"
+        srcset="/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-1a291.png 148w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-2bc4a.png 295w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fb8a0.png 590w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-526de.png 885w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-fa2eb.png 1180w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-08f6a.png 1770w,
+/research-log/static/003-3fc00e93e9eaed869c0732361c0bdf20-36f5d.png 2477w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>Adding some contrast with colours between the tagline and wordmark as I thought it all blended together too much with the single colour scheme.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/004-c27be15353c39551810319109ac1f701-9e5f6.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABjElEQVQ4y2NgGAWDE6irW8BpdQ0gVjeHYA0IHyyHxCZsIEwTkiFAzAjHEAuAbHMkcXO4HEwvClBDF6AEaCC8JaqpYWGopWlpqKNpJQektYF8F2MdGw4dTUtxPS0rASAtBRTTBsrpAdUIORk6MfDI6zFY6NohDFRSM2ME0Srq5nIKqqZ58qqmdbIqJllAdrucqmmZopppIVDNLJAcEJcB2ZVANTlAulZGxYQNpBfIRxjoaewCpq317AUzbQP0gdg6wsIzzN/ULTrYzCPKz8TNFcj2i7fyMfE2do3yMnZxiLTwcnczcvYHYk6QXi+oGWDwN7cVTP9vnMP8PK3W/k1Gvcu7jAZLIHZ+nV5v+ye3VftTZqPum/R6zbcZ9bZfs5o0geqs32Y0WP2fvxfsu/8Vk1DD8f///2THAYbeqwnlYPpSfBnDzcQKhttJlQw3EisYrwDFrwExkA2mQXIgNZcTysD8Y9GFDPeSq8B6QXrg4C5UEETD8B0QBiq6A+ZXQsUrUdSAMdQgmBmjYBACAPQWlBHoZOrMAAAAAElFTkSuQmCC'); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/004-c27be15353c39551810319109ac1f701-fb8a0.png"
+        srcset="/research-log/static/004-c27be15353c39551810319109ac1f701-1a291.png 148w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-2bc4a.png 295w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-fb8a0.png 590w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-526de.png 885w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-fa2eb.png 1180w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-08f6a.png 1770w,
+/research-log/static/004-c27be15353c39551810319109ac1f701-9e5f6.png 2478w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>Changing up some colour here to experiment. At this point I was getting unsure about the previous playful colours. Pink and blue combined makes me think about genders instantly which wasn’t what I wanted.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/005-31b1e5b1139b89832897e64612bdc465-9e5f6.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAAByklEQVQ4y2NgGLlAXcMCTsPYaki0GpoYQcPU1c0hbHVzRjV1cyaIweYYBiMsBamB6gHSalD9qAZjEQRqZkQxVN0Cq88wXYhwjZW6uoUn0EZ+oJggRMzcAahGB8pmBrK5gXJeQJoH5kJ1ZItQvKxh4QlkNwLpQqDhAlCXVwAxM0w90DJPoPxkIFbE6koNoICSmhnMQJBh/UDcCRS3B2KQ6yqhbF8g9gHyHYF0IJCOA7kWw1CYYcpqZvxAdoaEspGOnKpJEJA/EcifpaJuvg5INwJxhbK62Twgv0FRzTRXVd18C5DNCdKrghz+Frp2YNpQ21rE09jFpMopTLHNPUou3cZf2dfE1bPUMUTkaHQh/xTveOELcaU8Vnr21g4GjpnGOjYpIH1iSoaM////Rxj4P68NQveuZHqRVuf4JLXG+3Fqjf2r9Dqvb9nN1kC+8YOUatOnqTU6QNr1c1aT9qfMRssvWU02Z2NL2EB6byZW4EiU/DJwJtCFjNiUmOjYgMUneMUxX4ca1OIWiVCwOCAVTO+JyAPTd5IqwRgEriSUgem7yVVwMRA4EVOElQ03AEbfTa4Ea76bVAWhwexKNBpoeDIMQ/UC2aNgkAIAqweciDxyONIAAAAASUVORK5CYII='); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fb8a0.png"
+        srcset="/research-log/static/005-31b1e5b1139b89832897e64612bdc465-1a291.png 148w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-2bc4a.png 295w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fb8a0.png 590w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-526de.png 885w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-fa2eb.png 1180w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-08f6a.png 1770w,
+/research-log/static/005-31b1e5b1139b89832897e64612bdc465-9e5f6.png 2478w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>At this point I started thinking that the logo was just very bland. I blame the boring purple-black for that now, but I thought it was the typeface in the wordmark, so I went a bit wild.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-36f5d.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100.04037141703674%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABqUlEQVQ4y2NgGAWDF6hrWMBpIGZU1zBnUFc3h4qZM6hpmKOoI2AYVLG6BTY5RmRLQQaDLVQ3Z1RDcgSG69TgrrFgBxoiAaQFgJgbKsYKEgexYeogDjBH8pk5qqGq6uZMIFpTw1JPQ8OiH4jLgGxTqIGFWpqWGjC1mhoWKtqaliogtoOBI4OUsjGqYQqqYH0Mimqm/PKqpglAXA0UmwjE5UB2jbKa2XxFNbNWoHyJgpppNZDfChQvAGIvkD4jbRtGBlFlhIE+Jq5gOtjMg8PD2CUyxdrPPt7Kx9PNyLnA29g1y9XQKcLV0DnFxdApEYhzgK6K8DR2SQOyA2Fm5NgFIgz8X9QNoVvmM3/OarJ5lV7n9jGz0eJXTov9v9w2i/95bVr/y/pV/xd0qP7Pa7cA0uo/spvNvmQ1WX7NagIHFZCN6u3///+TneT+l09EFbidVAmmH6fWMFyIK2W4mVjBcAsodim+jOF6YjnDZSB9Ayh2JaEMLHYurgTMPhCZD9YDAnehZkA4yRDOHSB9N6mK4Q5Q8m5yFVgclQbKQWkIG6IeYmDVaOkwWAEARlyRyZQUvfIAAAAASUVORK5CYII='); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fb8a0.png"
+        srcset="/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-1a291.png 148w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-2bc4a.png 295w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fb8a0.png 590w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-526de.png 885w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-fa2eb.png 1180w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-08f6a.png 1770w,
+/research-log/static/006-4efc42eb38aec4444b01d875c94f7bac-36f5d.png 2477w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>Maybe too wild, so I toned it down. But still not the style I was looking for. Started coming back to the realisation that I liked the soft font style more.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-9e5f6.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABi0lEQVQ4y2NgGAWDE6hrWMBpFKxujiEHZqtboIjjNhCikFFdw5xRTd2cEclwRjAGi4HFmeBiQHk1kMVAjNVQUoEaukEgoIFwvhiQHQ7EMbpaVlJaGpZmQHZWkrUvk7ampSJQTAiIxYFikZoaFub6WlaiIH1ANoO5rh3CQCU1M0YQraxmJgtkr1BUM92ooGa6Ccg+DsTngXi5MoReBsQHlNXNdgHpJUB1W/W1rJmhehEGuhs5g2lrPXvhKAsv1zgrH18/E7cSDyOXCk9jl1ogHeVq6FzgZewSAaTLgXx3oJ4ob2PXMl55PRaoXoSB/ws6IHTrAub3mQ02HzIbnf4Xdhn+y22zBcqZ/i/rV/2f3675v6hbGcg3A7LVfua06PzNbQWHVbFDMMP/7TdRw/H/lR9kRUqKjR+m4LWEcjB9OaGM4UZiBcOtpAqGm4kVjCDx64nljCD+FSAbJHcVSIPEQWqBcmB95+NKgXoqEQbeTa6C0yB8JwlKJ1dCxSrhcmB2EoIP0wdSOwoGKQAAkhyYdomuB94AAAAASUVORK5CYII='); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fb8a0.png"
+        srcset="/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-1a291.png 148w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-2bc4a.png 295w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fb8a0.png 590w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-526de.png 885w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-fa2eb.png 1180w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-08f6a.png 1770w,
+/research-log/static/007-97b8ecfa2a53727b09a04c5cdd622d80-9e5f6.png 2478w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>I went searching for a new typeface that had the softer edges but also had a bit more presence. I found Fredoka One which fit that bill perfectly. At this point I knew I was happy with the typefaces, and that it must be the colours that were off.</p>
+<p>
+  <a
+    class="gatsby-resp-image-link"
+    href="/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-9e5f6.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+  
+  <span
+    class="gatsby-resp-image-wrapper"
+    style="position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;"
+  >
+    <span
+      class="gatsby-resp-image-background-image"
+      style="padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAC4jAAAuIwF4pT92AAABiElEQVQ4y2NgGAWDE/w3qobTCFwFoQ2rUOQw2IbVWAyEa6oCsRmBimGY4Z8h2GBGiDhUzrCKCUT/A6upAhsKotFcWUWR71DAX6gLga4RA7LD/xhWRX8zrJD6bVhpBuRnbdVLYfxlWKkIFBP6blghDhSLBKox/2pYIQrSB2QzvDYsQbalhhFKywLxiv9GtRuBeBOQfRyIzwPxcii9DIgPAPEuIF4CVLP1i2E5M1QvwsAbBnlg+plBsdAh/QzXvXppvhf0c0quG+RVXDPIqwPSUbcN8guuGORGAOkKIN/9pkF+NJBf/t+4hRWqF8nPqpoQWkmQWUDN0IZfzcCJQVXdkEFN2xYoZ8agoqTKoKqlyaCqpsygqmEGZKuxqunqMKjpWIC0LdWNZ2CQRA9IEfKSHDB8IcGW9h8hqKdhBaaNNKwZdDQsGbSAWFvDklEfKK6rYcUI4htA5UBiIGwI5MP0mWnYMGhqWCAMVIdyQLS6hjkYq4FpGN8CjNWgtLq6OZRvDtEH5Y+CQQoAwx6s4wuE/zUAAAAASUVORK5CYII='); background-size: cover; display: block;"
+    >
+      <img
+        class="gatsby-resp-image-image"
+        style="width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;"
+        alt="Typography"
+        title=""
+        src="/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fb8a0.png"
+        srcset="/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-1a291.png 148w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-2bc4a.png 295w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fb8a0.png 590w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-526de.png 885w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-fa2eb.png 1180w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-08f6a.png 1770w,
+/research-log/static/008-cbef748d76fa2b5dd5c96cf062f69be6-9e5f6.png 2478w"
+        sizes="(max-width: 590px) 100vw, 590px"
+      />
+    </span>
+  </span>
+  
+  </a>
+    </p>
+<p>I felt like the previous purple-black colour was overpowering with the new thicker typeface. I brought it back to a playful pink colour, then moved the use of that purple-black down to the tagline. I feel like this hit the balance I was looking for.</p></div><hr style="margin-bottom:1.5625rem"/><div style="margin-bottom:3.90625rem"><p>A digital scrapbook by William Park. It contains details about my final project &quot;Habeats&quot; for my final project at Interaction Design Belfast.</p><p><strong>This material is my submission for IXD501.</strong></p></div><ul style="display:flex;flex-wrap:wrap;justify-content:space-between;list-style:none;padding:0"><li><a rel="prev" href="/research-log/brand-name-gen/">← <!-- -->Brand Name Generation - Habeats</a></li><li><a rel="next" href="/research-log/colours/">Brand Colours<!-- --> →</a></li></ul></div></div></div><script>
+  
+  
+  if(true) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+  if (typeof ga === "function") {
+    ga('create', 'undefined', 'auto', {});
+      }
+      </script><script id="gatsby-script-loader">/*<![CDATA[*/window.page={"componentChunkName":"component---src-templates-blog-post-js","jsonName":"logo-gen-708","path":"/logo-gen/"};window.dataPath="259/path---logo-gen-708-94c-qfoVKajkRKmJWlCoPZ2rgizWs4";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"app":["/app-8ad82c0ba09d8be45df4.js"],"component---node-modules-gatsby-plugin-offline-app-shell-js":["/component---node-modules-gatsby-plugin-offline-app-shell-js-31ee4b698d609e346331.js"],"component---src-templates-blog-post-js":["/component---src-templates-blog-post-js-fc30f1ccd32028784a9c.js"],"component---src-pages-404-js":["/component---src-pages-404-js-bd47a77552aee32af5f8.js"],"component---src-pages-index-js":["/component---src-pages-index-js-d819281b56f3028287c2.js"]};/*]]>*/</script><script src="/research-log/webpack-runtime-9dc30b4a28086e07e5b0.js" async=""></script><script src="/research-log/app-8ad82c0ba09d8be45df4.js" async=""></script><script src="/research-log/component---src-templates-blog-post-js-fc30f1ccd32028784a9c.js" async=""></script><script src="/research-log/0-1af89739fa31018b87da.js" async=""></script></body></html>
